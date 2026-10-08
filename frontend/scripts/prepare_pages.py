@@ -19,6 +19,9 @@ for path in out.rglob('*'):
         continue
     content = path.read_text()
     content = re.sub(r'(["\x27`(=])/((?:assets|data|images)/|simulation(?:\.html|-method\.md))', lambda match: match[1] + base + match[2], content)
+    # Lazy chunks import the main module without a query; keep one React instance.
+    if path.name == "index.html":
+        content = re.sub(r'(src="[^"?]+\.js)\?[^"\s]+', r'\1', content)
     # Vite's dependency preloader also constructs paths from the domain root.
     content = content.replace('return"/"+S', f'return"{base}"+S')
     path.write_text(content)
