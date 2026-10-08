@@ -102,6 +102,78 @@ Archivos: `maqueta3d/src/CiudadSim.tsx` (vista 3D) y `maqueta3d/src/ciudadSim.ts
 
 **Puntos de inicio del incendio:** Cristo Rey (−76,5652; 3,4357), Cerro de las Tres Cruces (−76,5485; 3,4655) y Pichindé (−76,6155; 3,4405). Son coordenadas **aproximadas (verificar)**, puestas a mano para el ejercicio. Pichindé tiene antecedentes de incendio forestal según la Alcaldía (ver `src/fire.ts`).
 
+---
 
-## Integración en Territorio Preparado
-Pausa, reinicio, duración visual, modo sin movimiento, vistas, captura, comparación e informe JSON. El incendio usa distancia en metros a celdas cuadradas de 60 m (margen supuesto), no vecindad gruesa de buckets. Capas ajustadas a altura del relieve. Las construcciones cercanas son registros catastrales, no conteos de personas. La licencia de catastro permanece sin verificar según el autor; integración local autorizada por el equipo, sin nueva publicación externa.
+## 6. Versión realista (8 de octubre, tarde)
+
+Entregable independiente: `entregables/simulacion-ciudad/` (un solo HTML que se abre con doble clic; ver su `LEEME.txt`). Se arma con `node entregables/simulacion-ciudad/construir.mjs`.
+
+### 6.1 Edificio por edificio (catastro)
+- **Huellas:** `catastro:cat_bas_construcciones` con geometría, solo `npisos`, `shape_area` y `the_geom` (`raw/ciudad3d/bajar_edificios.sh`; sin NPN, predio ni códigos prediales). 713.863 registros, sin duplicados entre páginas.
+- **Proceso:** `prototipo/scripts/edificios3d.py` simplifica cada huella (Douglas-Peucker, 0,35 m) y la guarda por teselas de 1 km en un binario con coordenadas cada 0,2 m (17,9 MB → 9,7 MB comprimido). Quedan **634.239 edificios**. Se omiten **79.624** construcciones menores de 4 m² (mediana de 2,8 m²: casetas y tanques). **271.940** no tienen dato de pisos (43 %) y se dibujan de 1 piso.
+- **En pantalla:** cerca de la cámara se dibujan los edificios reales (huella × pisos × 3 m) con fachadas, ventanas y techos procedurales (ilustrativos); lejos, la volumetría por manzana. Las vías salen de una máscara de manzanas cada 8 m.
+
+### 6.2 Topografía: curvas de nivel oficiales
+- **Fuente:** `pot_2014:bcs_curvas_nivel` (IDESC): 3.523 curvas **cada 10 m**, con su cota. Se descartan las cotas 0 y 500, que no existen en Cali. Se usaron 3.516.
+- **Método** (`prototipo/scripts/topografia.py`): las curvas se dibujan en una grilla de 20 m y el espacio entre ellas se llena con **interpolación armónica** (ecuación de Laplace, de la malla gruesa a la fina, solo con numpy). La superficie pasa exactamente por las curvas y no inventa picos.
+- **Resultado:** el SRTM sale en promedio **8,8 m más alto** que las curvas (p5 −31 m, p95 +4 m), porque el radar mide copas de árboles y techos. Fuera de la cobertura de las curvas (la franja oriental, al otro lado del Cauca) se usa el SRTM corregido en **−3,3 m**, que es la diferencia mediana en el valle. Las curvas cubren el 66 % de la caja.
+- **Consultado y descartado:** el modelo de elevación municipal `raster:dem_modelo_elevacion_digital` existe en el WMS de la IDESC, pero el WCS no lo publica, así que solo se obtiene como imagen y no con valores de altura.
+
+### 6.3 Sismo con magnitud a elección
+- **Intensidad:** Allen, Wald y Worden (2012), *Intensity attenuation for active crustal regions*, J. Seismology 16:409-433, versión con distancia hipocentral. Los coeficientes se tomaron del código de OpenQuake (Fundación GEM, clase `AllenEtAl2012Rhypo`): c0 = 2,085; c1 = 1,428; c2 = −1,402; c4 = 0,078; m1 = −0,209; m2 = 2,042. Fuente del código: https://github.com/gem/oq-engine/blob/master/openquake/hazardlib/gsim/allen_2012_ipe.py
+- **Daño por edificio:** método macrosísmico de Lagomarsino y Giovinazzi (2006): μD = 2,5·[1 + tanh((I + 6,25·V − 13,1)/Q)], con grados 0-5 de la escala EMS-98 y distribución binomial. Vulnerabilidad **supuesta por pisos**: 1-2 pisos, clase B (V = 0,74); 3-5 pisos, clase C (0,58); 6 o más, clase D (0,42). Q = 2,3 (2,6 en la clase D). Valores **(verificar)** con el artículo original.
+- **Ajustes:** suelo blando (zonas de licuación o corrimiento) +0,5 grados (supuesto). Los sismos profundos (50 km o más) llevan **+0,7 grados**, calibrados para que el sismo real dé intensidad VI en el centro de Cali. La ecuación es para sismos corticales y con el sismo real daba V; el SGC reportó intensidades de hasta VII.
+- **Sismo real de referencia:** solución del SGC, 4,99° N y −76,29° O, 103 km de profundidad, Mw 7,4 (San José del Palmar, Chocó). El USGS da 4,844° N, −76,242° O y 108-110 km. Queda a 172 km del centro de Cali (201 km hasta el hipocentro).
+- **Validación con lo ocurrido:** con el sismo real, el modelo estima **834 edificaciones con daño muy grave o colapso**, y la UNGRD reportó **879 viviendas destruidas** en Cali (corte del 17-sep). En daño moderado o importante **sobrestima**: 74.328 contra 16.357 averiadas. Las cifras no son del todo comparables (viviendas frente a edificaciones), pero la escala del daño grave coincide.
+- **Pruebas:** `maqueta3d/scripts/sismo.test.mjs` (4).
+
+### 6.4 Inundación: corrección
+- El polígono «Área prioritaria para estudio» (30 km²) no es un nivel de amenaza y ya **no se inunda** en la simulación. Antes se contaba como amenaza alta.
+- Las zonas de amenaza «mitigable» están protegidas por obras como el jarillón: la simulación muestra qué pasaría si esas protecciones fallan.
+- Profundidad representativa de cada rango del POT: baja 0,3 m, media 0,7 m y alta 1,5 m. Resultado: **221.830** edificaciones en zona de inundación (170.848 alta, 26.845 media y 24.137 baja).
+
+### 6.5 Direcciones de los edificios
+- **Fuente:** `dapm:pdt_nmc_nomenclatura_domiciliaria` (IDESC), **692.389** direcciones, con corte del 3-sep-2026. Solo se descargan la dirección, el barrio y la comuna; ni NPN, ni predio, ni ningún otro identificador. Esta capa exige `sortBy` para paginar.
+- **Asignación:** dirección más cercana a 30 m o menos del centro de cada edificio: **91 %** de los edificios (574.637). Al hacer clic en un edificio o en un cono de daño se ven la dirección, el barrio, los pisos, la huella y el resultado del escenario, con la advertencia de que es una estimación y no una evaluación.
+
+### 6.6 APIs externas (claves fuera del repositorio)
+- **NASA FIRMS:** focos de calor de los últimos 5 días (el máximo por consulta es 5; con 10 responde «Invalid day range»). Al armar el archivo hubo **1 foco** en la caja (6-oct, VIIRS SNPP, sureste). Se ofrece como punto de inicio del ejercicio de incendio.
+- **Mapillary:** foto de calle más cercana a 70 m o menos de cada espacio candidato: **1.088 de 1.442** tienen foto (311 de 2024 en adelante). La caja de búsqueda debe ser pequeña: con 1 km responde «Please reduce the amount of data». El HTML solo trae el enlace público, no el token.
+- **Nominatim (OpenStreetMap):** no respondió desde el servidor (respuesta vacía). Se ubicó con la nomenclatura y el inventario.
+
+### 6.7 Albergues: reales frente a sugeridos
+
+**Albergues reales tras el sismo** (curados el 8-oct; `prototipo/scripts/albergues_direcciones.py`):
+
+| Lugar | Tipo | Ubicación | Fuente |
+|---|---|---|---|
+| Coliseo de Hockey Miguel Calero (Canchas Panamericanas), Cl 9 con Kr 37A/39 | Oficial: 146 cupos, unas 60 familias | Inventario IDESC | [Alcaldía 12-ago](https://www.cali.gov.co/boletines/publicaciones/193628/alcaldia-de-cali-refuerza-la-atencion-integral-a-familias-afectadas-por-el-sismo-mediante-la-disposicion-de-albergues-temporales/), [RCN](https://newsroom.rcnradio.com/colombia/cali-estos-son-los-centros-de-acopio-y-albergues-habilitados-tras-el-terremoto-de-7-4-en-colombia-conoce-que-ayudas-se-necesitan), [El País](https://www.elpais.com.co/cali/terremoto-en-cali-estos-son-los-lugares-habilitados-para-recibir-a-los-damnificados-1038.html) |
+| Diamante de Béisbol, Kr 39 con Cl 9 | Oficial (anunciado el 11-ago) | Inventario IDESC | El País, RCN |
+| Unidad Deportiva Jaime Aparicio | Albergue, acopio y descanso de rescatistas | Aproximada (complejo) | El País |
+| Escuela Nacional del Deporte, Cl 9 # 34-01 | Centro de acopio | Nomenclatura domiciliaria | RCN |
+| Plazoleta Jairo Varela, Av 2N # 10N-1 | Centro de acopio | Aproximada (sin placa propia) | RCN |
+| Chiminango I, Chiminango II, Calimio Norte (sector Ramalí) | Autogestionados: 336 hogares (1.046 personas) al 18-ago | Aproximada (centro del barrio) | [Defensoría](https://www.defensoria.gov.co/web/guest/-/defensoria-pide-atencion-urgente-para-336-familias-en-albergues-de-cali?redirect=%2F), [AFP](https://albertonews.com/internacionales/la-lluvia-amenaza-los-albergues-improvisados-de-cali-no-tenemos-a-donde-ir/) |
+| Altos de Santa Elena | Autogestionado (carpas) | Aproximada (centro del barrio) | Alcaldía, [Occidente](https://occidente.co/cali/albergues-de-cali-tras-sismo-control-subsidios-arriendo/) |
+| Iglesia Reyes y Sacerdotes | Familias de Altos de Santa Elena | Sin ubicación publicada | Alcaldía |
+
+Cifras generales: Cali tuvo unos 12 albergues (2 oficiales y 10 autogestionados) y **más de 2.800 personas** a los diez días del sismo ([Minuto30](https://www.minuto30.com/terremoto-damnificados-albergues-cali/1716443/)); 194 personas en los institucionales a la semana ([El País](https://www.elpais.com.co/cali/confirman-que-194-personas-siguen-en-albergues-tras-terremoto-en-cali-alcaldia-evalua-edificaciones-afectadas-1759.html)).
+
+**Hallazgos del cruce con las capas oficiales:**
+- **Chiminango I, Chiminango II y Calimio Norte quedaron en zonas de amenaza de inundación** (alta y media, protegidas por el jarillón) **y de licuación o corrimiento.** En otro sismo con réplicas o con lluvias fuertes serían de los lugares menos seguros para un albergue. Coincide con la alerta de la Defensoría.
+- **Altos de Santa Elena** está en una ladera con **38,6 % de pendiente** (modelo de curvas), no apta para carpas.
+- Los dos albergues oficiales (hockey y diamante) están en terreno plano (0,5-1,5 %) y fuera de las zonas de amenaza.
+
+**Idoneidad de un espacio** (`maqueta3d/src/albergues.ts`, con 3 pruebas): puntaje de 0 a 100 con cinco criterios y pesos a la vista:
+- **Demanda (35 %):** edificaciones afectadas a menos de 1,5 km, frente al percentil 90 del caso.
+- **Capacidad (20 %):** 45 m² por persona, cifra de las normas Esfera para asentamientos tipo campamento **(verificar)**.
+- **Seguridad (20 %):** se descartan los espacios que cruzan la amenaza; en el sismo se castigan los que tienen colapsos estimados a unos 100 m, y en el incendio los que están a menos de 1 km del área quemada.
+- **Pendiente (15 %):** ideal hasta 2 %, no apta desde 8 % (supuesto).
+- **Salud (10 %):** IPS del REPS y equipamientos de salud de la IDESC.
+
+La dotación usa las reglas del proyecto: kit de 20 personas, 1 baño por cada 20 y 15 L por persona al día.
+
+**Todos los casos** (7: inundación; sismo real; sismos hipotéticos bajo Cali de Mw 6,5 y 7,0; incendio desde Cristo Rey, Tres Cruces y Pichindé): los espacios que más se repiten entre los 10 mejores son los Parques **Torres de Comfandi** (comuna 5), **Ciudad de Los Álamos** (comuna 2) y **Olímpico** (comuna 10), cada uno en 3 de los 7 casos. Son los primeros candidatos para preparar con anticipación.
+
+### 6.8 Albergue armado y realidad aumentada
+- **En la maqueta:** «Ver albergue montado» arma el sitio con los **kits del proyecto** (`maqueta3d/src/data/site.ts`): cubierta de 10 × 7 m a 3 m de altura con 5 particiones de 2 × 2 × 2 m (20 personas por kit), baños de 1,2 × 1,2 × 2,3 m, tanques, módulos de NNA y de salud de 5 × 3,5 × 2,5 m y registro de 4 × 3 m. La disposición es ilustrativa.
+- **Realidad aumentada:** «Realidad aumentada» exporta un módulo de 100 personas a GLB y lo abre en `model-viewer` 4.3.1 (Google, desde jsDelivr; necesita internet). En Android con ARCore (WebXR) o en iPhone (Quick Look), el modelo se pone a escala real sobre el piso a través de la cámara. Abierto en el sitio, se ve el albergue en su lugar real.

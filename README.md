@@ -29,3 +29,7 @@ Los escenarios son ejercicios de preparación; sus límites y fuentes aparecen e
 Dirección pública: https://bryanmavi.github.io/Territorio-Preparado/
 
 Un administrador debe seleccionar **Settings → Pages → Build and deployment → Source → GitHub Actions**. El workflow `.github/workflows/pages.yml` publica `frontend/dist` cada vez que se actualiza `main`. El script `frontend/scripts/prepare_pages.py` adapta rutas de datos, imágenes, módulos y simulación al prefijo del repositorio, conservando la ejecución local original.
+
+## Simulación v3
+
+Actualizada el 8 de octubre de 2026 con el paquete suministrado `simulacion_ciudad_cali_v3.zip`. Incluye las pestañas Simulación y Albergues y nuevos controles de escenarios. El original y sus fuentes se conservan en `frontend/simulation-source`.

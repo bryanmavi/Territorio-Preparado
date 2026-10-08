@@ -1,31 +1,42 @@
-SIMULACIÓN DE ESCENARIOS EN SANTIAGO DE CALI · Territorio Preparado (RETO-01 Cali Activa)
-=========================================================================================
+SIMULACIÓN DE ESCENARIOS EN SANTIAGO DE CALI · Territorio Preparado (RETO-01 Cali Activa) · versión 3
+=====================================================================================================
 
 CÓMO ABRIRLO
 1. Descomprime el .zip.
-2. Haz doble clic en simulacion_ciudad_cali.html. Se abre en el navegador (Chrome, Edge o Firefox).
-   No necesita instalar nada, ni servidor, ni internet: la maqueta y los datos van dentro del archivo.
-   (Con internet solo se descarga la tipografía; sin conexión se usa la del sistema.)
-3. Espera unos segundos mientras carga la maqueta (5 MB).
+2. Haz doble clic en simulacion_ciudad_cali.html (Chrome, Edge o Firefox actualizados).
+   No hay que instalar nada ni hace falta servidor ni internet: la maqueta y los datos van dentro del archivo (21 MB).
+   Con internet también se cargan la tipografía y el visor de realidad aumentada.
+3. Espera unos segundos mientras carga.
 
 CÓMO USARLO
-- Arrastra para girar, rueda para acercar, clic derecho para desplazar.
-- En el "Cuadro de simulación" elige el escenario: Inundación, Sismo o Incendio forestal.
-- "Simular" anima el escenario en 8 segundos; la barra de avance permite recorrerlo a mano.
-- Incendio: elige el punto de inicio (o haz clic en la montaña), la dirección del viento y el margen.
-- Al 100 % aparecen los 8 sitios sugeridos para acopio, con botones para verlos en la maqueta,
-  en Street View y en Google Maps.
+- Arrastra para girar, usa la rueda para acercar y el clic derecho para desplazar. De cerca aparecen los
+  634.239 edificios reales del catastro; de lejos, la volumetría por manzana.
+- Clic en un edificio o en un cono de daño: dirección, barrio, pisos y lo que le pasaría en el escenario.
+- Panel derecho: arriba quedan fijos las pestañas, el escenario y "Simular" (o el caso, en Albergues);
+  debajo, tarjetas que se pliegan con el triángulo ▾.
+- Pestaña SIMULACIÓN:
+  · Inundación: el agua sube en las zonas de amenaza oficiales y deja marca de lodo en las fachadas.
+  · Sismo: elige la magnitud (Mw, la escala que reemplazó a "Richter"), la profundidad y el epicentro (el
+    sismo real del 10-ago-2026, uno bajo Cali o el botón "Elegir el epicentro en la maqueta"). Se ven las
+    grietas, la inclinación y el colapso de cada edificio y el conteo por grado de daño (EMS-98).
+  · Incendio forestal (ejercicio): inicio, viento y margen; incluye los focos reales de NASA FIRMS.
+  · "Simular" anima el escenario; al 100 % aparecen los sitios sugeridos para acopio.
+  · "Zona más afectada" lleva la cámara a donde el escenario golpea más; "Colores de análisis" pinta por nivel.
+- Pestaña ALBERGUES:
+  · Elige el caso y mira los 10 puntos más adecuados para un albergue, con su puntaje (0-100) desglosado.
+  · "Analizar todos los casos" muestra qué espacios sirven para varias amenazas.
+  · Los albergues reales del sismo, con sus fuentes, y las alertas cuando quedaron en zona de riesgo.
+  · "Montar" arma el albergue con los kits del proyecto en el sitio.
+  · "📱 RA" (realidad aumentada) lo abre en el visor 3D. En un celular con RA (Android con ARCore o iPhone), el
+    botón de RA del visor lo pone a escala real sobre el piso con la cámara (necesita internet).
 
 QUÉ ES Y QUÉ NO ES
-- Maqueta 3D de Cali con relieve y volumetría por manzana (pisos promedio del catastro).
-- Inundación y sismo muestran capas oficiales de la Alcaldía (POT 2014, IDESC) y los daños
-  observados del sismo del 10-ago-2026. El incendio forestal es un EJERCICIO: no hay capa oficial.
-- Los sitios de acopio son una preselección para revisar en sitio. No confirman disponibilidad,
-  estado estructural ni autorización. La herramienta recomienda; decide una persona autorizada
-  (Ley 1523 de 2012).
+- Es una herramienta para preparar la respuesta. Usa capas oficiales y modelos citados, con los supuestos a la vista.
+- No es un pronóstico, no evalúa edificaciones (eso lo hace un profesional en sitio) y no autoriza el uso de
+  ningún espacio. La herramienta recomienda; decide una persona autorizada (Ley 1523 de 2012).
 
 FUENTES Y MÉTODO
-Ver FUENTES_Y_METODO.md: todas las fuentes consultadas (usadas y descartadas), con URL, fecha,
-licencia y los pasos para reproducir la maqueta.
+En FUENTES_Y_METODO.md están todas las fuentes consultadas (usadas y descartadas), con URL, fecha, licencia
+y los pasos para reproducir la maqueta, el modelo sísmico y el análisis de albergues.
 
 Datos descargados el 8 de octubre de 2026.
