@@ -1,0 +1,23 @@
+comuna,poblacion_2020,estrato_moda,espacios_publicos,espacios_>=2000m2,ep_m2_por_hab,pct_ep_inund_alta_o_no_mitigable,espacios_<500m_dique_cauca,pct_ep_licuacion,zona_sismica_dominante,edificios_destruidos_sismo,edificios_danados_sismo,sedes_educativas_afectadas,indice_afectacion_sismo,barrios_mas_afectados
+01,103620,1,36,19,1.7,0,0,0,Zona 1,0,0,7,29.0,Terrón Colorado; Vista Hermosa; Aguacatal
+02,124669,4,155,75,7.11,1,0,10,Zona 4B,0,0,0,37.0,Sector Altos de Menga; Santa Mónica; La Flora; Menga
+03,46990,3,51,22,4.6,0,0,0,Zona 2,4,1,1,25.5,San Juan Bosco; Santa Rosa; San Pascual; Los Libertadores
+04,51806,2,49,22,2.68,0,0,4,Zona 4B,2,1,4,21.0,Manzanares; Calima; Flora Industrial; La Alianza
+05,116608,3,148,73,4.02,48,0,78,Zona 5,0,0,2,11.5,Los Parques - Barranquilla; Villa del Prado - El Guabito; Los Guayacanes; Los Andes
+06,198137,2,128,63,2.3,92,50,100,Zona 6,0,2,0,28.0,Ciudadela Floralia; Paso del Comercio; Urbanización Calimio; Jorge Eliécer Gaitán
+07,68739,3,53,31,3.3,55,23,92,Zona 6,0,0,5,10.0,Alfonso Lopez Pumarejo 3a Etapa; Alfonso Lopez Pumarejo 2a Etapa; San Marino; Siete de Agosto
+08,103445,3,44,16,1.01,5,0,41,Zona 4B,0,0,9,19.0,Atanasio Girardot; Rafael Uribe Uribe; El Trébol; Villa Colombia
+09,43330,3,15,5,0.71,0,0,0,Zona 4A,4,5,6,34.0,Barrio Obrero; Sucre; Guayaquil; Bretaña
+10,113040,3,74,24,1.92,0,0,34,Zona 4C,1,2,10,22.5,Olímpico; Cristóbal Colón; Pasoancho; Panamericano
+11,110302,3,76,30,1.99,0,0,83,Zona 5,0,0,8,21.5,El Jardín; Los Sauces - Ciudad Modelo; Aguablanca; San Carlos
+12,66028,3,25,10,0.88,16,0,100,Zona 6,0,0,2,8.5,El Rodeo; Doce de Octubre; Nueva Floresta; Fenalco Kennedy
+13,181084,2,66,29,1.04,62,0,100,Zona 6,0,0,5,35.5,Sector Laguna del Pondaje; El Poblado II; Lleras Restrepo II; Los Lagos
+14,181093,1,68,47,1.6,91,0,100,Zona 6,0,0,5,22.5,Manuela Beltrán; José Manuel Marroquín Primera Etapa; José Manuel Marroquín Segunda Etapa; Puerta del Sol
+15,174473,2,103,60,2.7,19,0,100,Zona 6,0,0,2,8.5,Mojica; Los Comuneros I; El Retiro
+16,112135,2,41,32,2.89,10,0,80,Zona 5,0,0,5,7.0,Antonio Nariño; República de Israel; Mariano Ramos
+17,156046,5,255,166,8.89,0,0,31,Zona 4D,0,3,0,10,El Gran Limonar; El Gran Limonar - Cataya; Santa Anita - La Selva
+18,150663,1,103,31,1.7,0,0,0,Zona 2,0,0,4,4,Caldas; Buenos Aires; El Jordán; Sector Alto Nápoles
+19,117656,4,166,76,4.4,0,0,0,Zona 4C,7,26,6,170.0,Urbanización Nueva Granada; Urbanización Tequendama; Cuarto de Legua - Guadalupe; El Refugio
+20,71043,1,23,8,1.1,0,0,0,Zona 2,0,0,1,53.0,Siloé; Brisas de Mayo; Belén; Lleras Camargo
+21,121440,1,161,81,5.11,84,112,99,Zona 6,0,0,0,3.5,Desepaz Invicali; Compartir; Valle Grande
+22,12637,6,108,68,60.16,0,0,0,Zona 4E,0,0,0,0,

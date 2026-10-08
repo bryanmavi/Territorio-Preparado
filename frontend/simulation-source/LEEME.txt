@@ -1,0 +1,31 @@
+SIMULACIÓN DE ESCENARIOS EN SANTIAGO DE CALI · Territorio Preparado (RETO-01 Cali Activa)
+=========================================================================================
+
+CÓMO ABRIRLO
+1. Descomprime el .zip.
+2. Haz doble clic en simulacion_ciudad_cali.html. Se abre en el navegador (Chrome, Edge o Firefox).
+   No necesita instalar nada, ni servidor, ni internet: la maqueta y los datos van dentro del archivo.
+   (Con internet solo se descarga la tipografía; sin conexión se usa la del sistema.)
+3. Espera unos segundos mientras carga la maqueta (5 MB).
+
+CÓMO USARLO
+- Arrastra para girar, rueda para acercar, clic derecho para desplazar.
+- En el "Cuadro de simulación" elige el escenario: Inundación, Sismo o Incendio forestal.
+- "Simular" anima el escenario en 8 segundos; la barra de avance permite recorrerlo a mano.
+- Incendio: elige el punto de inicio (o haz clic en la montaña), la dirección del viento y el margen.
+- Al 100 % aparecen los 8 sitios sugeridos para acopio, con botones para verlos en la maqueta,
+  en Street View y en Google Maps.
+
+QUÉ ES Y QUÉ NO ES
+- Maqueta 3D de Cali con relieve y volumetría por manzana (pisos promedio del catastro).
+- Inundación y sismo muestran capas oficiales de la Alcaldía (POT 2014, IDESC) y los daños
+  observados del sismo del 10-ago-2026. El incendio forestal es un EJERCICIO: no hay capa oficial.
+- Los sitios de acopio son una preselección para revisar en sitio. No confirman disponibilidad,
+  estado estructural ni autorización. La herramienta recomienda; decide una persona autorizada
+  (Ley 1523 de 2012).
+
+FUENTES Y MÉTODO
+Ver FUENTES_Y_METODO.md: todas las fuentes consultadas (usadas y descartadas), con URL, fecha,
+licencia y los pasos para reproducir la maqueta.
+
+Datos descargados el 8 de octubre de 2026.

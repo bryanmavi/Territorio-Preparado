@@ -1,0 +1,83 @@
+[
+  {
+    "key": "publicSpaces",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:epou_epu_espacio_publico_efectivo&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 1970,
+    "remoteCount": 1970,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "sports",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=deporte_recreacion:escenarios_deportivos&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 1021,
+    "remoteCount": 1021,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "communes",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:pdt_dpa_comunas&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 22,
+    "remoteCount": 22,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "neighborhoods",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:pdt_dpa_barrios_sectores&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 342,
+    "remoteCount": 342,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "fluvial",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_inundacion_fluvial&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 423,
+    "remoteCount": 423,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "pluvial",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_inundacion_pluvial&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 227,
+    "remoteCount": 227,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "nonMitigable",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=expediente_municipal:emc_amb_ari_amenaza_no_mitigable_inundacion&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 3,
+    "remoteCount": 3,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "liquefaction",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idesc:mc_susceptible_licuacion&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 16,
+    "remoteCount": 16,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  },
+  {
+    "key": "seismicEffects",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_efectos_sismicos&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-09-25",
+    "snapshotCount": 2,
+    "remoteCount": 2,
+    "sameGeometryAndProperties": true,
+    "status": "Comparación de descarga completa; excluye IDs transitorios WFS"
+  }
+]

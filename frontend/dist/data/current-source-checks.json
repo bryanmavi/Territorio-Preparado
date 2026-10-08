@@ -1,0 +1,84 @@
+[
+  {
+    "key": "publicSpaces",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:epou_epu_espacio_publico_efectivo&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 1970,
+    "remoteCount": 1970,
+    "contentDigest": "339636b06373b67ce210a0515aaebabc8c12c36578d6760f25d89c77a956992f",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "sports",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=deporte_recreacion:escenarios_deportivos&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 1021,
+    "remoteCount": 1021,
+    "contentDigest": "a63dd1f39c94cd5ea602e260ccda01c91e0964c11b8d422ce0a43144fdca8336",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "communes",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:pdt_dpa_comunas&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "status": "No verificable: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "neighborhoods",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dapm:pdt_dpa_barrios_sectores&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "status": "No verificable: Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "fluvial",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_inundacion_fluvial&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 423,
+    "remoteCount": 423,
+    "contentDigest": "bf3291ef2ed130a11e7d2b69e28e8492e718b513da085497523f9c055747700d",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "pluvial",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_inundacion_pluvial&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 227,
+    "remoteCount": 227,
+    "contentDigest": "7cd5157f1cbc6f87e85de52adb6820707ee6c61edc8a754d62737a2e4d894fbd",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "nonMitigable",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=expediente_municipal:emc_amb_ari_amenaza_no_mitigable_inundacion&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 3,
+    "remoteCount": 3,
+    "contentDigest": "e59a0d769e3349301c8b252f33de0d7fba02db7baa88348eea40e2f2bdaf0203",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "liquefaction",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=idesc:mc_susceptible_licuacion&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 16,
+    "remoteCount": 16,
+    "contentDigest": "1a664aef1821a6e5183b49abc2077095bd24bdff7a79850bf49a6836210bb442",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  },
+  {
+    "key": "seismicEffects",
+    "url": "https://ws-idesc.cali.gov.co/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=pot_2014:amb_ari_efectos_sismicos&outputFormat=application/json&srsName=EPSG:4326",
+    "consultedOn": "2026-10-08",
+    "snapshotCount": 2,
+    "remoteCount": 2,
+    "contentDigest": "a0aed5d56ba45c2add9de841b8a97bff0ace65956ab64b4728951f70e48764bc",
+    "sameGeometryAndProperties": true,
+    "status": "Sin cambios respecto al archivo original"
+  }
+]

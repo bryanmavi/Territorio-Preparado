@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+test-results/
+playwright-report/
+.~lock.*#
+.env
+.env.*
+!.env.example

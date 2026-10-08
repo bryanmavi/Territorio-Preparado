@@ -1,0 +1,1091 @@
+fuente,grado,tipo,nombre,lat,lon,comuna,barrio_cod,barrio
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.4636483,-76.51029784,04,0405,Manzanares
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.46383938,-76.51039317,04,0405,Manzanares
+Copernicus EMSR916,Damaged,Residential,Unknown,3.47205802,-76.50473334,04,0422,La Alianza
+Copernicus EMSR916,Possibly damaged,Residential,Unknown,3.48495638,-76.5001065,04,0421,Calima
+Copernicus EMSR916,Damaged,Residential,Unknown,3.50326891,-76.49234683,06,0610,Ciudadela Floralia
+Copernicus EMSR916,Possibly damaged,Residential,Unknown,3.50327375,-76.49239853,06,0610,Ciudadela Floralia
+Copernicus EMSR916,Damaged,Residential,Unknown,3.50511072,-76.4939362,06,0610,Ciudadela Floralia
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44282263,-76.5350474,03,0306,San Juan Bosco
+Copernicus EMSR916,Possibly damaged,Residential,Unknown,3.44432591,-76.53494744,03,0306,San Juan Bosco
+Copernicus EMSR916,Possibly damaged,Residential,Unknown,3.44512292,-76.53178086,03,0306,San Juan Bosco
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44532137,-76.5310862,03,0306,San Juan Bosco
+Copernicus EMSR916,Possibly damaged,Residential,Unknown,3.44535727,-76.52785666,03,0309,San Pascual
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44720158,-76.53559882,03,0307,Santa Rosa
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44721683,-76.53551462,03,0307,Santa Rosa
+Copernicus EMSR916,Damaged,Residential,Unknown,3.44436658,-76.52622112,09,0909,Sucre
+Copernicus EMSR916,Damaged,Residential,Unknown,3.44440758,-76.52613125,09,0909,Sucre
+Copernicus EMSR916,Damaged,Residential,Unknown,3.44464934,-76.52618058,09,0909,Sucre
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44543404,-76.52300955,09,0909,Sucre
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44629179,-76.52161292,09,0910,Barrio Obrero
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.44630311,-76.51968715,09,0910,Barrio Obrero
+Copernicus EMSR916,Destroyed,Residential,Unknown,3.45068746,-76.52290333,09,0910,Barrio Obrero
+ICube-SERTIT,Possibly damaged,Residential,,3.442325168000025,-76.54607044299996,03,0315,Navarro - La Chanca
+ICube-SERTIT,Damaged,Residential,,3.440682929000047,-76.54225660799995,19,1911,Miraflores
+ICube-SERTIT,Damaged,Residential,,3.423272105000024,-76.54804870599997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Damaged,Residential,,3.422246763000032,-76.54713208199996,19,1904,Urbanización Tequendama
+ICube-SERTIT,Damaged,Residential,,3.420181878000051,-76.54788939799994,19,1904,Urbanización Tequendama
+ICube-SERTIT,Damaged,Transportation,,3.41493138800007,-76.54908525899998,19,1903,El Lido
+ICube-SERTIT,Destroyed,Residential,,3.405564815000048,-76.54807802299996,19,1930,Pampa Linda
+ICube-SERTIT,Damaged,Residential,,3.407321377000073,-76.54919770199996,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Destroyed,Residential,,3.407316424000044,-76.54832643499998,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Destroyed,Residential,,3.396368609000035,-76.54791817499995,19,1901,El Refugio
+ICube-SERTIT,Damaged,Residential,,3.397628731000054,-76.54808763599993,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.432180010000025,-76.53730680699994,19,1913,El Cedro
+ICube-SERTIT,Damaged,Religious,,3.43137110300006,-76.53823644699997,19,1913,El Cedro
+ICube-SERTIT,Possibly damaged,Residential,,3.427810263000026,-76.53902262299994,19,1905,Eucarístico
+ICube-SERTIT,Possibly damaged,Residential,,3.426366571000074,-76.53882331399996,19,1905,Eucarístico
+ICube-SERTIT,Destroyed,Residential,,3.420999567000024,-76.54272770499995,19,1904,Urbanización Tequendama
+ICube-SERTIT,Damaged,Hospital,,3.43048668900002,-76.54504511199997,19,1910,San Fernando Viejo
+ICube-SERTIT,Possibly damaged,Residential,,3.395911578000039,-76.54006283399997,17,1717,El Gran Limonar - Cataya
+ICube-SERTIT,Possibly damaged,Residential,,3.397974950000048,-76.54694099599999,19,1901,El Refugio
+ICube-SERTIT,Damaged,Residential,,3.397665221000068,-76.54489114099994,17,1718,El Gran Limonar
+ICube-SERTIT,Damaged,Residential,,3.397674535000021,-76.54373174499995,17,1718,El Gran Limonar
+ICube-SERTIT,Possibly damaged,Residential,,3.399055314000066,-76.53784539999998,17,1717,El Gran Limonar - Cataya
+ICube-SERTIT,Damaged,Residential,,3.399021944000026,-76.54161777199994,17,1717,El Gran Limonar - Cataya
+ICube-SERTIT,Possibly damaged,Residential,,3.400254553000025,-76.54601759299999,17,1718,El Gran Limonar
+ICube-SERTIT,Damaged,Residential,,3.402114529000073,-76.54804273399998,19,1930,Pampa Linda
+ICube-SERTIT,Possibly damaged,Residential,,3.400582498000063,-76.54909340199998,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.402058201000045,-76.53981053999996,17,1707,Santa Anita - La Selva
+ICube-SERTIT,Possibly damaged,Residential,,3.407569766000051,-76.54823932699998,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Residential,,3.407579484000053,-76.54837530899994,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Residential,,3.408998926000038,-76.54473862099996,19,1921,Camino Real - Joaquín Borrero Sinisterra
+ICube-SERTIT,Damaged,Residential,,3.408500399000047,-76.54884895499998,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Sport hall,,3.411418205000075,-76.55068500299996,19,1933,Sector Unidad Deportiva Alberto Galindo Plaza de Toros
+ICube-SERTIT,Damaged,Residential,,3.414680593000071,-76.53274405799993,10,1013,Panamericano
+ICube-SERTIT,Damaged,Residential,,3.418673589000036,-76.55281727499994,19,1903,El Lido
+ICube-SERTIT,Damaged,Residential,,3.423148841000057,-76.54827417899997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423531703000037,-76.54915549799995,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Damaged,Residential,,3.423374482000042,-76.54796552199997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Damaged,Residential,,3.423203348000072,-76.54817383499994,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423434760000021,-76.54909353799997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423337817000061,-76.54903157899997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423412610000071,-76.54839048399998,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423455429000057,-76.54831716099994,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423486589000049,-76.54825154499997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.42328014900005,-76.54868770199994,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Damaged,Residential,,3.422648159000062,-76.54583984999994,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.423812780000048,-76.54020859199994,19,1905,Eucarístico
+ICube-SERTIT,Damaged,Residential,,3.425254283000072,-76.55210445699998,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.427570820000028,-76.54066700799996,19,1906,San Fernando Nuevo
+ICube-SERTIT,Damaged,Residential,,3.42794058000004,-76.54398772599995,19,1906,San Fernando Nuevo
+ICube-SERTIT,Damaged,Residential,,3.42878597400005,-76.53585067699998,19,1914,Champagnat
+ICube-SERTIT,Damaged,Hospital,,3.428924550000033,-76.53618958699997,19,1914,Champagnat
+ICube-SERTIT,Damaged,Educational,,3.429512638000062,-76.53508051599994,19,1914,Champagnat
+ICube-SERTIT,Damaged,Educational,,3.429404041000055,-76.53463782199998,19,1914,Champagnat
+ICube-SERTIT,Possibly damaged,Residential,,3.432167130000039,-76.54507237899998,19,1910,San Fernando Viejo
+ICube-SERTIT,Damaged,Residential,,3.434469023000077,-76.54266816899997,19,1910,San Fernando Viejo
+ICube-SERTIT,Damaged,Residential,,3.434394642000029,-76.54257657899996,19,1910,San Fernando Viejo
+ICube-SERTIT,Damaged,Residential,,3.435581589000037,-76.53370330199994,09,0902,Bretaña
+ICube-SERTIT,Damaged,Residential,,3.439119899000048,-76.54863610699994,19,1925,Tejares - Cristales
+ICube-SERTIT,Possibly damaged,Residential,,3.43905481500002,-76.54129852099999,19,1911,Miraflores
+ICube-SERTIT,Possibly damaged,Residential,,3.440961522000066,-76.54359826299998,19,1911,Miraflores
+ICube-SERTIT,Damaged,Residential,,3.442175045000056,-76.54134556299994,03,0305,Los Libertadores
+ICube-SERTIT,Damaged,Residential,,3.396370957000045,-76.54802404699996,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.396152027000028,-76.54767906099994,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.396476342000028,-76.54760343599997,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.396556081000028,-76.54810448999996,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.396638984000049,-76.54789022499995,19,1901,El Refugio
+ICube-SERTIT,Possibly damaged,Residential,,3.416860858000064,-76.53961735899998,19,1916,Los Cámbulos
+ICube-SERTIT,Damaged,Residential,,3.43440547900002,-76.53468172599997,09,0901,Alameda
+ICube-SERTIT,Possibly damaged,Residential,,3.434219520000056,-76.53482435799998,19,1914,Champagnat
+ICube-SERTIT,Possibly damaged,Residential,,3.435661128000049,-76.53307207899996,09,0902,Bretaña
+ICube-SERTIT,Possibly damaged,Residential,,3.434189659000026,-76.53337776899997,09,0902,Bretaña
+ICube-SERTIT,Destroyed,Residential,,3.421575451000024,-76.53458980999994,10,1008,Olímpico
+ICube-SERTIT,Destroyed,Residential,,3.422389101000022,-76.54294494899995,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.422354591000044,-76.54284632399998,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.422816410000053,-76.54821667299996,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.422880547000034,-76.54836955999997,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423472516000061,-76.54982441899995,19,1907,Urbanización Nueva Granada
+ICube-SERTIT,Possibly damaged,Residential,,3.423035663000064,-76.55044717199996,19,1903,El Lido
+ICube-SERTIT,Possibly damaged,Residential,,3.422951419000071,-76.55047660699995,19,1903,El Lido
+ICube-SERTIT,Possibly damaged,Residential,,3.42015992100005,-76.54780827299999,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.421166055000072,-76.54276803099998,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.421066824000036,-76.54287629899994,19,1904,Urbanización Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.420987509000042,-76.54292052899996,19,1904,Urbanización Tequendama
+ICube-SERTIT,Damaged,Residential,,3.418074798000021,-76.53244526799995,10,1012,Pasoancho
+ICube-SERTIT,Possibly damaged,Residential,,3.418243347000043,-76.53234942999995,10,1012,Pasoancho
+ICube-SERTIT,Possibly damaged,Residential,,3.41681821800006,-76.53926678299996,19,1916,Los Cámbulos
+ICube-SERTIT,Possibly damaged,Commercial,,3.414679293000063,-76.54653040899996,19,1926,Unidad Residencial Santiago de Cali
+ICube-SERTIT,Destroyed,Residential,,3.414538606000065,-76.54163621399994,19,1920,Nueva Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.414471498000069,-76.54178888899997,19,1920,Nueva Tequendama
+ICube-SERTIT,Possibly damaged,Residential,,3.414679899000021,-76.54155019099994,19,1920,Nueva Tequendama
+ICube-SERTIT,Destroyed,Residential,,3.407299099000056,-76.54843084099997,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Residential,,3.407175512000038,-76.54828771899997,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Residential,,3.40717277300007,-76.54845035299996,19,1919,Cuarto de Legua - Guadalupe
+ICube-SERTIT,Possibly damaged,Residential,,3.407293972000048,-76.54853925799995,19,1919,Cuarto de Legua - Guadalupe
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4171929228439293,-76.51252858570324,11,1113,Los Sauces - Ciudad Modelo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4180041896429305,-76.52036760893743,11,1103,La Independencia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4144924280604525,-76.54172012857113,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.414585433519372,-76.54164392099116,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4146471822757243,-76.54159619843786,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4146408672677797,-76.54151979207462,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4209592974914838,-76.54274142063245,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421106460180429,-76.54276072725389,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4168536897207,-76.538969469495,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4214339174882182,-76.53474603483369,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4214981790942685,-76.53462285438974,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424921108681386,-76.53329148510213,19,1915,Urbanización Colseguros
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422082049146086,-76.54257680474694,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423237038162095,-76.54809381011185,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423255917382853,-76.54823798494132,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423296858887787,-76.5479882916669,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42336616821496,-76.54797440530803,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427565159722385,-76.54504869152986,19,1906,San Fernando Nuevo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431999774739656,-76.53819893796638,19,1913,El Cedro
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.437200882580832,-76.5291163057805,09,0904,Guayaquil
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.43493829909075,-76.54134353442336,19,1910,San Fernando Viejo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4406806695351064,-76.55080642767709,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4407047880721207,-76.55095395174868,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4407707331576023,-76.5405420489612,03,0305,Los Libertadores
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.416075708032391,-76.56551368791283,20,2008,Pueblo Joven
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4158089220608554,-76.56073780943385,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415634588474259,-76.56064125103771,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4156322881106633,-76.56145087699252,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.416033535096714,-76.55346130576382,19,1903,El Lido
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4192179193546344,-76.55696770162793,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4180386438893064,-76.56414287601548,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419219131897565,-76.56302396545155,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4212737516930076,-76.56717505548343,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4217819727288545,-76.56181668769881,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4218559181147086,-76.5618212130943,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422519306826327,-76.55725567979599,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4208475309043713,-76.5561458709343,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421438230309111,-76.5566052097074,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421518664705444,-76.55656573007504,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4216916867677223,-76.556778193289,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4222749002414705,-76.55257312649368,19,1903,El Lido
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4227404342841306,-76.55503968405101,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422985314092089,-76.55621127610011,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4231883040151563,-76.55589057504297,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423639480193579,-76.55606666691129,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424182203340687,-76.5578454377422,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4242708224956275,-76.55793002394734,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424630750816846,-76.55592003492748,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4259631671626583,-76.55673121362936,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4259845602630374,-76.55667494140951,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427058492128144,-76.55607430266734,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427293011523559,-76.55603582569812,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.428018414461868,-76.55209498752815,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4235488453356204,-76.56457567397962,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.44160783819054,-76.54951984124088,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4421463194350794,-76.55050406149863,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4421708033566434,-76.55069272581733,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.442830885041963,-76.55026809873937,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4550971100138743,-76.51772349845804,04,0401,Jorge Isaacs
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4488374540244235,-76.54384023730813,03,0302,El Peñón
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.444961179944402,-76.52836144325545,03,0309,San Pascual
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4476901150307935,-76.52784659516178,03,0310,Ciudad Paraíso
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4471337331915834,-76.54997466805527,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447168553938494,-76.55003543331908,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4475014662536827,-76.55658587756476,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.458623467228194,-76.53735635605241,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4599921624160306,-76.53773681897154,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.460155693838197,-76.53769917741512,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4665113498548994,-76.5335246512264,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466678385642072,-76.53341616790259,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4556440034751565,-76.54154892673068,02,0224,Alto Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.457790778342528,-76.54288716766796,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459408380235218,-76.54154656610362,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4555529992812026,-76.54805388388723,02,0204,Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466689662983304,-76.5335388888668,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4711464848885507,-76.530409403279,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4877100250926296,-76.53543117024326,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486188330964851,-76.53466586645474,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.480823676142809,-76.52782037017738,02,0213,La Campiña
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4611941865827083,-76.54380139357838,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4870051938061786,-76.54988901895968,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.487062791125479,-76.52190822303525,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.487214179447297,-76.52173649900593,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4505751447742177,-76.5659258829231,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506769122793526,-76.56597593191614,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4548791774340106,-76.57490329268533,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454972170492198,-76.57480560391824,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454971904426793,-76.57492299934599,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4532420819352896,-76.55855878550517,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454916709995145,-76.56778413249891,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4550068991244993,-76.56779271358646,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455716839388448,-76.5768500931926,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4558186428290156,-76.5783422177284,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.456996440093712,-76.57421658789768,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454720125277892,-76.55396088350189,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4591059129923174,-76.57622471518444,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4595014465254716,-76.57636277584798,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4594306806343096,-76.58334892293875,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459544336610952,-76.58328771120046,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4597300804488547,-76.58325602773824,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4632472920007205,-76.58769693236819,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4659842627369346,-76.58994313110398,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4660658805161835,-76.5896616788238,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4660982361181745,-76.58995049899924,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4567473560958715,-76.55923161465714,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4568376636241083,-76.55914309598096,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4574229307919593,-76.56092045256149,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.456443052178674,-76.56800797127268,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.485986571827506,-76.52428497921704,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4859911728932027,-76.52434093904793,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4860723093128017,-76.52431209202454,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4867327078112025,-76.5347919933208,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4882104627090116,-76.52859163072694,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4884527651037085,-76.52621955057826,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4880672251256923,-76.53513422681142,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.492560997223074,-76.52713084858446,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4912398000090334,-76.53431538045018,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.491175784135141,-76.5342395744965,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.49126031123006,-76.53421925215453,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4933029501193396,-76.53536164891419,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4892856191532213,-76.54679615695152,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.492657767867953,-76.52712951558291,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.492689572537328,-76.52702307301682,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5221814753467506,-76.52817975575165,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4828197710454925,-76.54928768216953,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4850558887613388,-76.55288242406766,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.485452074663635,-76.5505080945446,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486480854677701,-76.5516824964321,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4896393301528303,-76.54955765264243,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.520198494192774,-76.60974092286325,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4150844938729836,-76.51451146208305,11,1113,Los Sauces - Ciudad Modelo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422614124819068,-76.48928486972142,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4226877976720713,-76.48919770285254,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422723158805267,-76.48925106760552,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422641623620265,-76.51291056522672,11,1101,San Carlos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.426395106444413,-76.51654896343335,11,1106,El Jardín
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4279275957001856,-76.49218948242952,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4284607711690853,-76.49285850073052,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4266375595567387,-76.4968697415867,13,1316,Yira Castro
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4297057604958914,-76.49229690926529,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.429765000560993,-76.49232974382114,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425744161990457,-76.50311855346084,12,1209,Doce de Octubre
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4258492161725456,-76.50305178587257,12,1209,Doce de Octubre
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4268433467394503,-76.50653631571696,11,1119,Los Conquistadores
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430371298978604,-76.5139431008322,11,1112,Prados de Oriente
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4352963042412465,-76.5009525369201,12,1210,El Rodeo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434836501616042,-76.50386653708469,12,1210,El Rodeo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415735872679101,-76.46458561276499,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415790939179578,-76.46462763365682,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4158320265211555,-76.4646613036424,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4152939085096587,-76.4867622980515,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4189771066864534,-76.48540423171777,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.418392556845867,-76.46224798246725,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42462599803859,-76.46232063385503,21,2106,Desepaz Invicali
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4237601381339835,-76.47931150957994,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424636491791992,-76.473801918186,14,1409,Promociones Populares B
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425666285312152,-76.48607591282328,13,1307,Omar Torrijos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4296639056529865,-76.47218044497184,14,1407,Puerta del Sol
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.429836039117898,-76.471962970128,14,1407,Puerta del Sol
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430520631466366,-76.46162009555233,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4319596998585093,-76.46158495753355,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431987764335998,-76.46164668612973,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432144390412175,-76.46140003462892,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432151657337376,-76.46133630953649,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4322004167805336,-76.46141486077741,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432366455246853,-76.46147490104849,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.428580806999026,-76.47745796374552,14,1409,Promociones Populares B
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431467413020095,-76.48658600167754,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4355871770635558,-76.48683885741984,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4347371426171533,-76.48727521894864,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.43498060214443,-76.48812813367944,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4390390000182984,-76.49629511942848,12,1207,Nueva Floresta
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.435601093096581,-76.48677368842793,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.440157704764731,-76.48939349208796,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4402183849751866,-76.4894994002826,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4405359626911047,-76.46343003876245,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4444924520239666,-76.46047180477419,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4445339871723264,-76.46041458911928,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.444602806090027,-76.46043685058014,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.44064066079194,-76.48913266417111,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.443429824572824,-76.4639035874625,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4504752940952854,-76.47207165890552,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506791077787415,-76.47202181656019,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450690648512034,-76.47185790530504,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450697470189172,-76.47232794828442,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45073249443898,-76.47213772978748,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4507960388297167,-76.47212478160365,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4508458400214566,-76.47209089940733,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450873434757677,-76.47207563197608,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450896120847544,-76.47205009912436,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450924157102943,-76.47201588121489,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509568408883613,-76.47194765503522,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4477899313391487,-76.46219245420065,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509700177518075,-76.47187633022885,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509875892322963,-76.4721327344803,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451008827824307,-76.47210631302981,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451030101413161,-76.4720784019914,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451037238513553,-76.4720426852676,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451051594047482,-76.47201415279483,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451066136076356,-76.4721555121284,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4510813778274847,-76.47195596308138,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45109316552744,-76.47187764226031,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451099339243803,-76.47210079055074,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45112957618047,-76.47203546721836,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451146650944876,-76.47198714423547,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4511560910332246,-76.47192543680369,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447785912573165,-76.4750883515995,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.449784782976765,-76.47631528391094,07,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451445749248778,-76.47539295673256,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4559764666186434,-76.47539016646138,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4582641235674805,-76.4755476473459,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4583619731277992,-76.47556952545833,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4706062829171014,-76.48714708493847,05,0503,Los Guayacanes
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.470878283825497,-76.49440126146506,05,0502,Los Andes
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4828643583459864,-76.47945081015973,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4866223341251157,-76.48575605757568,06,0614,San Luis II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4868759477036515,-76.48207690732212,06,0615,Urbanización Calimio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4869096662153782,-76.48208819281844,06,0615,Urbanización Calimio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4947093893135706,-76.47892964912843,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.44408417380816,-76.50762218296423,08,0812,Atanasio Girardot
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4472538629295277,-76.49978655511887,08,0815,Villa Colombia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447165581608017,-76.49329079655878,08,0818,Urbanización La Nueva Base
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.475338202093086,-76.50269085025519,05,0511,Torres de Comfandi
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4787799629795746,-76.49810857486716,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4802049630516443,-76.5008160238753,04,0420,Flora Industrial
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.475333541021903,-76.50681679282968,04,0415,Evaristo García
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.476266715268368,-76.5053181991616,04,0415,Evaristo García
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.491580392783206,-76.51699879334393,02,0222,Urbanización La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4951962329702946,-76.48426819996973,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4952277830603244,-76.48441284289285,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.497199914962744,-76.48776896463305,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4903296258640397,-76.47346610045324,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.497352002547338,-76.47046452533343,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.49843523993465,-76.4728627283191,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5010760780512564,-76.472634506982,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.501501063617208,-76.47261537961991,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4958629237561505,-76.48236621675252,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.495961540779762,-76.48237535313395,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4965212388258915,-76.48236275841656,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5454235180211198,-76.47801199745912,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5095703358293964,-76.51906617726719,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980284889300086,-76.49697293847868,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980531816155436,-76.49703845889668,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980845025413503,-76.49695068335986,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980975731076613,-76.49710358017157,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.498098998291528,-76.49702315769281,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5011916529995983,-76.49545296210724,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050035493895297,-76.4952846504662,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505068241090687,-76.49527856099472,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050704526156564,-76.49532936775083,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050723462284172,-76.4952456129326,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5041173179942255,-76.49325687009718,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050074174538906,-76.49372696128924,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505010641147233,-76.49382313934228,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505095688747005,-76.49322070232033,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5051009416922403,-76.49330492154463,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5053575710408076,-76.49392491212342,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505482383951274,-76.49576732634004,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5455626245094414,-76.50011531834211,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5456260111769398,-76.50006774137047,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5478350306284177,-76.4991205484907,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5465929719173497,-76.50899817356387,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546678946856663,-76.50929656055317,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546637343095985,-76.50944915356305,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5466932345830857,-76.50944508980105,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546733854427039,-76.50944559488212,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4549997747104797,-76.46845161152766,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4560050277225103,-76.46538256230872,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4549621604058296,-76.4799398989492,07,0703,Alfonso Lopez Pumarejo 3a Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.472110511938343,-76.48171468542557,06,0602,Jorge Eliécer Gaitán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4721919985199805,-76.48175291138841,06,0602,Jorge Eliécer Gaitán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.501029252700491,-76.4726198710266,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.50050501154484,-76.47412079229126,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.498435171455767,-76.47286279573835,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.495268898619661,-76.47871740605862,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.490329491375103,-76.47346620183859,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4869097491951906,-76.48208813677212,06,0615,Urbanización Calimio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4958629632359544,-76.48236621456654,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4952685175469274,-76.48438291686828,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4933954952036244,-76.48647540946193,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5049527030038425,-76.49618989766277,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5049679194876298,-76.49633123723628,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505072278248199,-76.49652479076998,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5051072994029653,-76.49665884462776,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505405923125491,-76.49673005698278,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.50565240915063,-76.49585422810797,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505707211368432,-76.49621917812992,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.528933727294438,-76.4974236238064,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5247527972383677,-76.49905243010788,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.524754945012571,-76.49916490630577,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505072291623364,-76.49524566459782,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980976828863755,-76.49710345361683,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.501152735224019,-76.49543850945726,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459774149207871,-76.48964775722247,07,0709,San Marino
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4802436506882337,-76.4933852910721,05,0504,Chiminangos Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4847727534959083,-76.4995402548807,04,0421,Calima
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.484681758991112,-76.49949571142093,04,0421,Calima
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4787328222590324,-76.49791168348693,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4786749387347355,-76.49796206091655,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4781775616001958,-76.49857618023,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4938234309784333,-76.48962293294416,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4559554467735683,-76.47539526330881,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4581682316071447,-76.47567880720536,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45821847045074,-76.47570551808695,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.458146378647228,-76.47574267759447,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.458361910995189,-76.4755696257584,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.493818578497658,-76.48951866059622,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4773515673963553,-76.49083487183418,05,0505,Chiminangos Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4664282272946956,-76.48702176342906,05,0512,Villa del Prado - El Guabito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.489713388082062,-76.494795107857,06,0616,Puente del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505369310487348,-76.49399363747119,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.504982455653568,-76.49373084127939,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5055701530086707,-76.49663967170348,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505078971824922,-76.49658819762308,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505585696684427,-76.496549315371,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505464995097399,-76.49648917445039,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505619104577144,-76.4964190013347,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5057192658902117,-76.49637551224771,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5054313995218647,-76.49637728548443,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5054416556699266,-76.49627396153458,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050044152677495,-76.49629887547455,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5056908345998843,-76.4962375381715,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.504940727143913,-76.49623808878611,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505474936652359,-76.49621012350975,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505691179821014,-76.49609010858693,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.50549642469618,-76.49599915829866,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5054830213291166,-76.49576682283633,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505070773016945,-76.49532913351025,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505068424478156,-76.49527841126495,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.504095543588919,-76.49325289796094,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5478646459212553,-76.4991128480309,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5399286424836096,-76.49401243183243,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4708781905319057,-76.49440134199465,05,0502,Los Andes
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.51165233428155,-76.49734808070687,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.522164058487354,-76.52817116753414,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4973520873710338,-76.47046447708348,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.488553635881413,-76.5262115212686,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451129424468789,-76.47203560877347,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4511467680019825,-76.4719870420601,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4582646454695536,-76.47554723556928,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.463227318197326,-76.5876958638379,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4647487412160665,-76.58850517334326,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4660554082477644,-76.58992473792286,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4660335026800078,-76.5896317333146,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4659841372954237,-76.58994323280898,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466047217748432,-76.58995539026517,fuera_urbano,0103,Patio Bonito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4567642902883673,-76.57603320988613,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459094271246787,-76.5762319038377,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4595327580494635,-76.5763478757228,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455716938062791,-76.5768500211866,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455860535178765,-76.5784022680713,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4567971116486675,-76.57916859772504,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4874102413838517,-76.55082127578346,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4850019906728633,-76.55285633084871,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.489624705386357,-76.5495503937692,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486707013189767,-76.53477605957151,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466611202141468,-76.53343527530055,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466640500896491,-76.5335257918057,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4666737475605625,-76.53340838651641,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4664914188236997,-76.53351177989859,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4668087627578354,-76.53335975550554,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5455627161117285,-76.50011522011653,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.524948181087222,-76.49911468242834,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546636581246605,-76.50944975422088,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.456757979413624,-76.53554974545136,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4534978877534135,-76.53109119480996,03,0311,San Pedro
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.445244200866329,-76.50599803057433,08,0812,Atanasio Girardot
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455285480489274,-76.54186047736268,02,0224,Alto Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4564332047246022,-76.54228632262365,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4593050944571075,-76.54212531542271,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459982881660395,-76.54291875837752,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.457805944863246,-76.54289248887184,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.457753420696999,-76.54287907882787,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4611940389909184,-76.54380148775574,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454110814446854,-76.54382133355601,02,0204,Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4553897884936373,-76.54791885289919,02,0204,Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455455501952221,-76.54799526223009,02,0204,Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455350048628177,-76.54799799565194,02,0204,Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.489588829323148,-76.54955326810224,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4930049410205037,-76.53575136244697,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4911828566839698,-76.53429417131966,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4906212350898667,-76.53529247999806,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.489285403715837,-76.54679633870995,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.488066765217732,-76.53513461644056,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4874149030779344,-76.55076357175939,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4828198847199694,-76.54928756701678,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4869879198709945,-76.54989171113716,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.485460251308082,-76.5505026937678,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4865580412467465,-76.55166769137863,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486496710035274,-76.55166068034755,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45862564669459,-76.53758769907749,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4585100593555653,-76.53745576611226,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4599933209899745,-76.53768800709963,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.460106147370937,-76.53769864247452,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459407645012702,-76.54154779004179,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45524463919477,-76.54171789969539,02,0224,Alto Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4556440266382498,-76.54154893091147,02,0224,Alto Normandía
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4547200637589675,-76.5539609531576,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4557013966101606,-76.55992155703119,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.453241900591547,-76.55855898953682,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4567341794736617,-76.55920950835012,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4573840792895356,-76.56089941037575,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4568034917738086,-76.5591303699568,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4564428842505213,-76.56800814517095,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4549415807165658,-76.56783343056857,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454974105894883,-76.56777445586039,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4550135851042665,-76.56782154861153,01,0104,Aguacatal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4535054215759904,-76.56890992281407,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.456996863301923,-76.5742162257047,01,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4549509722401277,-76.57491078329562,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45492310807546,-76.57497183344556,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4548795180735374,-76.57490299630112,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4550092439780413,-76.57488593172323,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5201984725039868,-76.60974092479626,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455566982144919,-76.5817671605311,01,0102,Vista Hermosa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459479741006202,-76.58324954607602,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4595407503699085,-76.58333812860648,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450679154459991,-76.47202177932779,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450845771793727,-76.47209096972053,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450873251931675,-76.47207578118663,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450475432737589,-76.47207152100161,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450895569150957,-76.47205058699122,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509243416735877,-76.47201574278822,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506872165576272,-76.47185838057158,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451445803395969,-76.47539294624522,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509569976428396,-76.47194753894983,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451008830264287,-76.47210630553154,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451030038075433,-76.47207840450243,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4510516774108955,-76.47201409510473,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4510814745453606,-76.47195587806318,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451098803718822,-76.47210124605033,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4511553762344143,-76.47192607718827,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4510660156140425,-76.4721556474597,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450987308234596,-76.47213298759837,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.451093257268649,-76.47187757294955,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4509698265777606,-76.47187649517315,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.45103662045644,-76.47204318758315,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506975728363036,-76.47232785847035,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450492591336475,-76.47214812047987,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.450733007646018,-76.47213729413511,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4507960975462098,-76.47212474185588,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.449802475657691,-76.47631327194604,07,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4497899464700597,-76.4689533857018,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447784873574526,-76.47508924549149,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4469277931867324,-76.4715661804154,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4319876954740445,-76.46164673954308,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431959826081736,-76.46158485105833,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432366456605072,-76.46147490437447,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432200464720957,-76.46141485726156,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432152254571556,-76.46133580782798,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4444743650321854,-76.46046283228978,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.444602669025309,-76.46043695314822,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4445343370603467,-76.46041428639933,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4191753010949584,-76.47140344772428,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4192330724691256,-76.47137511565172,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419100307249994,-76.47127496900592,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4191581490025396,-76.47121308495095,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4199638285381946,-76.47458645848253,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4302577304440454,-76.47158462134178,14,1407,Puerta del Sol
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.429835902790424,-76.47196311230319,14,1407,Puerta del Sol
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4296638737154033,-76.47218044996167,14,1407,Puerta del Sol
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4323460102506647,-76.4673050677603,21,2107,Compartir
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4324178027615515,-76.46732119101932,21,2107,Compartir
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4304727164013613,-76.46169021024546,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4305273940325676,-76.46154953037852,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424603085365541,-76.46234753174005,21,2106,Desepaz Invicali
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424602370340014,-76.46227094551018,21,2106,Desepaz Invicali
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4246616955921527,-76.4623964134731,21,2106,Desepaz Invicali
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415501249379834,-76.46497887740324,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4153944140603056,-76.46490769971288,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4186882041406057,-76.46222538083703,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4188085605483236,-76.46227945912585,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4183927336796724,-76.46224782579216,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4157904260829834,-76.46462811971487,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4158317716004105,-76.464661519611,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.41573594579181,-76.46458554529914,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447790178111558,-76.46219221544119,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4405359739041326,-76.46343002476222,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4434330792468972,-76.46390601393233,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4362139963827896,-76.46657234207666,21,2113,Valle Grande
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421495977876897,-76.47175954522915,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4215350974256684,-76.47173297345266,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4231594510943175,-76.47248717580608,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4242273150126157,-76.47419404901315,14,1403,Manuela Beltrán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4343908958143152,-76.47464106366232,14,1410,Los Naranjos II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4246366933388677,-76.47380178003966,14,1409,Promociones Populares B
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430933625626527,-76.47913097872569,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4285788073295107,-76.47745971158555,14,1409,Promociones Populares B
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4311315181461017,-76.47719379878392,14,1410,Los Naranjos II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431195605285172,-76.47719769096307,14,1410,Los Naranjos II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4300849749727944,-76.4781528828084,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4166942060829903,-76.53909096324587,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4168297374592704,-76.53924444400195,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4167966445899323,-76.5390615472452,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4233493442071325,-76.53399452674456,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4214424936589336,-76.53464981385083,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.444720866747338,-76.51609237963687,08,0806,La Floresta
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4234606942490324,-76.52701416901306,10,1009,Cristóbal Colón
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42660809154365,-76.53869285888393,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4266235265407214,-76.5387344518828,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4319507159946663,-76.53825738898763,19,1913,El Cedro
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4314234544464024,-76.51454258930005,11,1108,El Recuerdo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.433480106537949,-76.51701127132418,11,1109,Aguablanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.433389964770717,-76.51691910781406,11,1109,Aguablanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.433447343057353,-76.51690151700639,11,1109,Aguablanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4333938582773107,-76.51697013696302,11,1109,Aguablanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4263950549811457,-76.51654897575057,11,1106,El Jardín
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434630699191708,-76.52574947067556,09,0903,Junín
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4476891878522595,-76.5277797436567,03,0310,Ciudad Paraíso
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.444526112889361,-76.52848671359551,03,0309,San Pascual
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4444461939501427,-76.52843508060842,03,0309,San Pascual
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4444607629226573,-76.52859139761561,03,0309,San Pascual
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.440770421997464,-76.54054233702121,03,0305,Los Libertadores
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.417954377157467,-76.52030485230277,11,1103,La Independencia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4150844056178946,-76.51451148364849,11,1113,Los Sauces - Ciudad Modelo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4520505808269086,-76.52169615196499,09,0910,Barrio Obrero
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4248292601123773,-76.53331152090347,19,1915,Urbanización Colseguros
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4248811554540897,-76.53318074947295,19,1915,Urbanización Colseguros
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4249210947737994,-76.53329147050061,19,1915,Urbanización Colseguros
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.44539100331798,-76.5370588471186,03,0304,San Cayetano
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4342591465031758,-76.53471378660907,09,0901,Alameda
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434332649739076,-76.53476705266314,09,0901,Alameda
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434359274381245,-76.53482026708471,09,0901,Alameda
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4325801254287827,-76.52831388776045,09,0903,Junín
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432719194948619,-76.52830041093608,09,0903,Junín
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4196925089985197,-76.5244494533081,10,1009,Cristóbal Colón
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4195017505319156,-76.52445773775378,10,1009,Cristóbal Colón
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4249026782579306,-76.54122216858511,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4248974882583703,-76.54116105241272,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427602833391942,-76.5405607036737,19,1906,San Fernando Nuevo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.416608188422684,-76.54073714204004,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.414448757052386,-76.5413888195425,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.41451565052595,-76.54170978527517,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4144983433645884,-76.54150478353007,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4145406846550794,-76.54139907290408,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4145853536434814,-76.54164399348491,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.414642123881193,-76.54153903218662,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.414647040252782,-76.54159629332086,19,1920,Nueva Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4233813402187407,-76.54032960712472,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423359613198341,-76.54027638600489,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4211064622255587,-76.54276073132185,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422424950842737,-76.54300077806504,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4222949624215957,-76.54294909314699,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4222694730774603,-76.53850356780839,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4213250083517015,-76.53474843436055,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4212683114303326,-76.53470207398692,10,1008,Olímpico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423438768157224,-76.54036860798867,19,1905,Eucarístico
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4196257471300338,-76.53682175050932,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419658506216162,-76.53692625095492,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419736577628251,-76.53696072380603,19,1916,Los Cámbulos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4349728016080734,-76.54139682027092,19,1910,San Fernando Viejo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4349413773094906,-76.54130287519018,19,1910,San Fernando Viejo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4618026086261846,-76.51988168370211,04,0423,Sector Industria de Licores
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4870715822774665,-76.52184658993035,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.487277511125715,-76.5217564818457,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4873479448219094,-76.52195980578874,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4861853668226903,-76.52325963235698,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.490595244242327,-76.52612524122776,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486052146498879,-76.52430832229676,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4859596992882422,-76.52427500431624,02,0212,La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4877515726860095,-76.52813627208131,02,0215,El Bosque
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.488198748604946,-76.52858894555428,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4881327414718015,-76.52943026481717,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.488172434046913,-76.5294564862445,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.498124557665605,-76.49920502890538,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546592959507787,-76.5089981827491,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546733198379025,-76.50944612880083,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.546678866029506,-76.5092966285002,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4653885967039244,-76.495026068052,05,0512,Villa del Prado - El Guabito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4662680959619925,-76.49223662053922,05,0512,Villa del Prado - El Guabito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4701889141588467,-76.49965598698702,05,0502,Los Andes
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4753641386775165,-76.50259078390292,05,0511,Torres de Comfandi
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4846681948879596,-76.50232882045849,04,0421,Calima
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.480189218370167,-76.50100187760428,04,0420,Flora Industrial
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4802049642391877,-76.50081600809942,04,0420,Flora Industrial
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.459665722396147,-76.4896155145222,07,0709,San Marino
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.463441913815703,-76.5032352956844,04,0406,Salomia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4753304277543013,-76.50682039361313,04,0415,Evaristo García
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.483476422576984,-76.50919057742972,02,0217,Ciudad Los Álamos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.484682414255775,-76.50219804335272,04,0421,Calima
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.48461923262195,-76.5022773148523,04,0421,Calima
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5256266434750345,-76.50272211993249,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5455615444942286,-76.50159896142343,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4866453025769006,-76.48574794583938,06,0614,San Luis II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5283259221904224,-76.49760573318298,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4526756966471206,-76.50885602124825,08,0810,El Troncal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4915800159442343,-76.51699912530557,02,0222,Urbanización La Flora
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4698726909456843,-76.52094968239486,02,0211,Prados del Norte
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.498099941764801,-76.4970224027562,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980284520981426,-76.49697296551383,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5049772758740745,-76.49526643801813,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455027985197623,-76.51768502381731,04,0401,Jorge Isaacs
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455136336511914,-76.51768905040389,04,0401,Jorge Isaacs
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.54669300079218,-76.50944524741087,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455195480596877,-76.5297095516381,03,0313,El Manantial
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.471054091428973,-76.53025138848298,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.471381099853717,-76.53062530312475,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.471272200920998,-76.53060776958984,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.466721646211186,-76.53333210407264,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.492663486728833,-76.5270177311829,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4925192390250714,-76.52711982657566,02,0216,Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4912398178494923,-76.53431534934954,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4913144266141907,-76.53422369343862,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4912388267166894,-76.53420277575333,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4911508353318137,-76.53422330295419,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.480896415765072,-76.52785337655584,02,0213,La Campiña
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.480806984599136,-76.52787719752084,02,0213,La Campiña
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.484156781231476,-76.5269482335353,02,0215,El Bosque
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4847199946772283,-76.53207624611433,02,0215,El Bosque
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4713198991861236,-76.53052725309044,02,0210,Santa Mónica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.456781975320519,-76.53546140778202,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4586235288132836,-76.5373562987297,02,0205,Juanambú
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4932136099472837,-76.53538519742334,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.493253651754858,-76.53533356474354,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4932898019587473,-76.53533715124033,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.492382608883014,-76.53471876108179,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4924177381023878,-76.5346678212368,02,0223,Sector Altos de Menga
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4861444878484122,-76.53465076447566,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486211987466965,-76.53467252820757,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.487695622479703,-76.53535055110326,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5454235776324534,-76.4780119434868,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4897405526299243,-76.49484177893613,06,0616,Puente del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.501402013306407,-76.4726143949915,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5015002259511796,-76.47261609871033,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.496520856478806,-76.48236310628859,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.495961580594855,-76.48237528202215,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.495196340435063,-76.48426812333659,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4884643308888705,-76.45897495179975,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4831610020714368,-76.46162016320793,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.483193482204978,-76.46168627580445,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4721769651727574,-76.48182030929514,06,0602,Jorge Eliécer Gaitán
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.486876547952887,-76.48207638589255,06,0615,Urbanización Calimio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4546139940123646,-76.47691269140486,07,0703,Alfonso Lopez Pumarejo 3a Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.454635795568883,-76.47687901727062,07,0703,Alfonso Lopez Pumarejo 3a Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4559898034531153,-76.46546026840448,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4560528465755165,-76.46539361259198,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.455360074648758,-76.47864202804095,07,0703,Alfonso Lopez Pumarejo 3a Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4778022389453596,-76.48057279958897,06,0609,Petecuy Tercera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.497200236557298,-76.48776871429483,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4930585060432633,-76.48815270762472,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4938297951054267,-76.4895746979108,06,0603,Paso del Comercio
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5031086788834376,-76.49247712941681,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505493772654494,-76.4963307855781,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505523591750966,-76.49642365644111,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505058187289713,-76.4965656107966,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.504982710270245,-76.49381689686788,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5050977991720145,-76.4966108247287,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5055295992881077,-76.49631522912988,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4980846643524584,-76.49695054507534,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5417453505333354,-76.49564534553687,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5119597751512512,-76.49752039582334,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.528811951310677,-76.49720503371982,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5456243146153996,-76.5000253039935,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.477365248509698,-76.49089632473586,05,0505,Chiminangos Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.465474121615086,-76.4950290770972,05,0512,Villa del Prado - El Guabito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.478792534004144,-76.4979596389228,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4787903059596728,-76.4980282070769,05,0507,Los Parques - Barranquilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506075333807433,-76.56596701930523,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506673844440603,-76.56594817559315,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4506175014977467,-76.56587183201657,01,0101,Terrón Colorado
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.448826152981588,-76.54385950467709,03,0302,El Peñón
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4245574528917007,-76.55590761992988,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4267049692658365,-76.55201726001778,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4228205997330723,-76.55571157599627,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4227993473448644,-76.5549860746057,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4236085693155993,-76.5560551165373,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423648507809421,-76.55595046323661,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423022978753516,-76.5561261033435,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423080157528197,-76.55590639392418,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4230997255865385,-76.55612350319586,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423186396028323,-76.55581786093096,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423050668049085,-76.55619714774348,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423013177576769,-76.55605764392494,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4230769180696647,-76.55583997159401,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422213808575766,-76.55648957137205,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4258904867780493,-76.5566657039964,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425937756626565,-76.55675960224528,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4259646938396306,-76.55668432542873,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4187854143986933,-76.55750868047876,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4160337250977775,-76.55346113859231,19,1903,El Lido
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427845604603863,-76.55205737355516,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4279618964206575,-76.55212545790522,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.428022803483389,-76.55218271425203,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4280180937940847,-76.55209525569352,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425986351255766,-76.55528004534473,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4255918655623883,-76.55579670422692,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.439008262178162,-76.54628525613957,19,1925,Tejares - Cristales
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4474761879148095,-76.55642216078658,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4218564064370516,-76.5618628510479,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4217819140824766,-76.5618167408092,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4218173889073182,-76.56177244158097,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419454803641978,-76.562842086097,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.41966617452988,-76.55728375763856,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4219210438723104,-76.55669361169151,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4192181553691734,-76.55698736567328,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42173714400438,-76.55447637865387,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4208391294361467,-76.55616454445855,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4207703641588334,-76.55615413251766,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421774211159573,-76.556244145223,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.421817132409621,-76.55622330711513,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4214306851947,-76.55661843825375,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4215175941060227,-76.55656663429555,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4214994717556397,-76.55662368674187,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4199837404464026,-76.55755035656462,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419867149572192,-76.5574942574058,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425615326999984,-76.54267925744665,19,1906,San Fernando Nuevo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4231199133757455,-76.5478943745205,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4232097543907707,-76.54790961774097,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422944639613251,-76.5481745560745,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42309172857949,-76.54812047739975,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4231843764817653,-76.54804079609126,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4233770457388526,-76.54803941385913,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423286395664571,-76.54824523894962,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4233150610505394,-76.54823399624487,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42341305602727,-76.54831946068079,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4233659984354516,-76.54797455230694,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423426662522789,-76.54823724634241,19,1907,Urbanización Nueva Granada
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422332454932211,-76.5428560135332,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422377647708027,-76.54282372600609,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420959267442143,-76.54274144651161,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4422525489414197,-76.5506792635514,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.441688685173534,-76.54960845744188,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.441767522038196,-76.54960005518265,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.441607635990687,-76.54959770870254,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4416719240108113,-76.5495163902283,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4416079107552333,-76.54951977853423,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4406940598597644,-76.55094317693897,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4406722880849294,-76.55086402420473,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.442060789481392,-76.55046706621509,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.442148948626386,-76.55063744605346,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4421517922686897,-76.5504697314059,19,1917,El Mortiñal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4471680527559156,-76.55003583637945,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4471339471936893,-76.54997453898555,19,1909,Bellavista
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430710940142226,-76.54538029378244,19,1910,San Fernando Viejo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4201179820604963,-76.54787038920487,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420212279947578,-76.5479441883716,19,1904,Urbanización Tequendama
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424632037104231,-76.55586861727988,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423408907606662,-76.5557520957644,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42343122873774,-76.55585233204337,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423171816951886,-76.55586895154916,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423108345843055,-76.55584745992847,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422888561508381,-76.55569832417383,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4223277683275857,-76.5526456666614,19,1903,El Lido
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42643636785733,-76.55705355008182,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.426536193931091,-76.55708146958133,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4225193872009703,-76.5572555812394,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4242478321448195,-76.55795239607389,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424165625249905,-76.55788956730558,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4242562731603945,-76.55788080223769,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424117963337741,-76.55864502656208,20,2003,Siloé
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420774870129715,-76.5584632950273,20,2007,Tierra Blanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420757701829904,-76.55849712836316,20,2007,Tierra Blanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4207734285322466,-76.55809460300898,20,2007,Tierra Blanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42082470087521,-76.55804194354377,20,2007,Tierra Blanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4158003276950653,-76.56074134004338,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4156357380423743,-76.56064027245884,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.419305978318299,-76.5628566238029,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4193666822964195,-76.5629177099275,20,2004,Lleras Camargo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.418035720104548,-76.56420097705733,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4179743440821575,-76.56414650512977,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4180389201019,-76.56414259889205,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415698639320247,-76.56140071528169,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4156322265102026,-76.56145093974246,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42353219819653,-76.56457444034646,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4241156592996327,-76.56529091060852,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4272231015180057,-76.55598917098054,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4271676947514025,-76.55599120725309,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.427087878107607,-76.55597631953756,20,2005,Belén
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4161382775568883,-76.56546395119436,20,2008,Pueblo Joven
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.416179761767829,-76.56550809544167,20,2008,Pueblo Joven
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420415271287338,-76.56621010527132,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420503999819812,-76.56622864636894,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4205175250793625,-76.56617338661181,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4205498734768023,-76.56611407362935,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420584194893901,-76.56619139244272,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420632129987511,-76.56621896230726,20,2006,Brisas de Mayo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447253844951861,-76.49978655615794,08,0815,Villa Colombia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4453464301902055,-76.49956482941153,08,0814,Chapinero
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4199644562048443,-76.50586562584824,16,1604,Antonio Nariño
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4184454531317043,-76.50856537044446,16,1604,Antonio Nariño
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.418460228107669,-76.50851753064269,16,1604,Antonio Nariño
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4185099097210756,-76.50848064917102,16,1604,Antonio Nariño
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4477415275261323,-76.49707506823808,08,0817,La Base
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4283325121494483,-76.51039075954266,11,1121,San Benito
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4276616297156717,-76.50997428940177,11,1116,León XIII
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4235880065800925,-76.49818301375092,13,1322,Asprosocial - Diamante
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4236192422411253,-76.49825499805357,13,1322,Asprosocial - Diamante
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.436179577427296,-76.50518851550267,12,1210,El Rodeo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432600809170141,-76.5049883721202,12,1205,El Paraíso
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.433781198040586,-76.50900282256725,12,1204,Alfonso Barberena A.
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4266375594952807,-76.49686974164582,13,1316,Yira Castro
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.439039065176968,-76.49629503370414,12,1207,Nueva Floresta
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423257073665299,-76.51248992118312,11,1101,San Carlos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4226331138210315,-76.51292607462527,11,1101,San Carlos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4213309440561,-76.51421290065385,11,1101,San Carlos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4480713891812154,-76.51247307717425,08,0808,Municipal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.448194138391434,-76.51249152588719,08,0808,Municipal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.446310374042046,-76.51193397916285,08,0808,Municipal
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4268433730520895,-76.5065362453035,11,1119,Los Conquistadores
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447292207624206,-76.50172596326138,08,0815,Villa Colombia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434836407713479,-76.50386664517887,12,1210,El Rodeo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.435296457377868,-76.50095237814425,12,1210,El Rodeo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4189170036481493,-76.50293698048283,13,1308,El Diamante
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425744132812766,-76.50311854762992,12,1209,Doce de Octubre
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4303577592231957,-76.51393469837609,11,1112,Prados de Oriente
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4440630421931777,-76.50758846804916,08,0812,Atanasio Girardot
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.417184930752305,-76.51241803634329,11,1113,Los Sauces - Ciudad Modelo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4384259916535287,-76.51188405213048,08,0804,Rafael Uribe Uribe
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.438480244915139,-76.51191269369008,08,0804,Rafael Uribe Uribe
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.438511345363701,-76.51182433859468,08,0804,Rafael Uribe Uribe
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.426182561227763,-76.5082459262591,11,1116,León XIII
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425912852066212,-76.5088592992972,11,1116,León XIII
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4207184583521864,-76.49017191616477,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.420795680761648,-76.49012681730466,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4297671704798742,-76.49232782635823,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4297056485186133,-76.49229700003534,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430439688925719,-76.49307671651972,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4304454952419188,-76.49272864984619,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4284608081816828,-76.49285848719514,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4278121206990178,-76.49232963802807,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.42796358045314,-76.49225739024287,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4277155528181376,-76.49234535897195,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4279200765663322,-76.49221064831659,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4278491216080496,-76.49215387709289,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4402185392173927,-76.48949928448943,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.440640722175795,-76.48913260878236,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4401579315201114,-76.48939325558636,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431835055312349,-76.48048691531687,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430031821172091,-76.47812905463371,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4248180057362747,-76.47958481828137,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4322497403364407,-76.48186347693695,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.425666268188731,-76.48607592059666,13,1307,Omar Torrijos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4237483400386335,-76.47939703070318,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.423731396293553,-76.47932975707774,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.422506517061337,-76.47906174952196,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.418910072536392,-76.47752295900123,14,1406,José Manuel Marroquín Primera Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.449755144375042,-76.47630822410916,07,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.449770682748495,-76.47623304685905,07,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4322350280058607,-76.48179865856373,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432320510369242,-76.48188074853407,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4323207247195677,-76.48194190605507,14,1405,José Manuel Marroquín Segunda Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.432903814597496,-76.48423026920547,13,1318,Marroquín III
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.414991796668437,-76.48666120020779,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4149562865807526,-76.4865686473373,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4149860244785746,-76.48670720631164,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4313917035630626,-76.4865858913326,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4313486292097926,-76.48650073925407,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.431417621168801,-76.48652069909528,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4149922707553206,-76.4866058417884,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415058859719473,-76.4866135593166,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4150636632123605,-76.48655362557665,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415112947403983,-76.48661310448541,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4159817463821907,-76.48799823881107,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4160235643619328,-76.4881186984309,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4350720882927774,-76.48706034385549,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434854936168157,-76.4873236422366,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434736891328195,-76.48727543228311,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434980540725702,-76.48812818577498,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4355871880863647,-76.48683884870654,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4356010926226994,-76.48677368882379,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4305299362052644,-76.4885537387828,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4305876455614834,-76.48854750489453,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.430718235088931,-76.48822143841029,13,1319,Los Lagos
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4227232345500003,-76.48925097638323,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4226803609042435,-76.4891974930417,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4226145411109115,-76.48928450908927,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4471888248390936,-76.49344863283582,08,0818,Urbanización La Nueva Base
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447275053039913,-76.49353144365617,08,0818,Urbanización La Nueva Base
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.424903476150712,-76.49287175830734,13,1305,Los Comuneros II Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4249417238351048,-76.49283949390599,13,1305,Los Comuneros II Etapa
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.43132408879932,-76.49392419278914,13,1314,Villablanca
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434436837901597,-76.49476141717871,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.434423961766106,-76.49469295356114,13,1317,Lleras Restrepo II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505674192684306,-76.49610565146025,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.447728037333103,-76.49699040335445,08,0817,La Base
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.5055618327013,-76.49630125004649,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.505692509922659,-76.49649627101438,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.498053018262275,-76.4970386112199,06,0610,Ciudadela Floralia
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4321444370821697,-76.46139998986632,fuera_urbano,,
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4278812903173574,-76.4922504304792,13,1320,Sector Laguna del Pondaje
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.415274888420236,-76.48679411989896,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4159576463682075,-76.4880321302432,15,1506,Mojica
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4264905547539346,-76.48850468162208,13,1312,Rodrigo Lara Bonilla
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4208296661083337,-76.49027157189609,13,1304,El Poblado II
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.426083545676338,-76.5082827481766,11,1116,León XIII
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4171929882202647,-76.51252854002976,11,1113,Los Sauces - Ciudad Modelo
+Microsoft/Airbus (modelo IA),Damaged (modelo),Building,,3.4258491964983544,-76.50305178463287,12,1209,Doce de Octubre
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEDE LA PRESENTACION,3.4266392236952634,-76.51461651237332,11,1107,La Fortaleza
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA ALBERTO CARVAJAL BORRERO,3.444460000190023,-76.49486300034833,08,0816,El Trébol
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA GENERAL ALFREDO VASQUEZ COBO,3.436811599559659,-76.52518860978064,09,0904,Guayaquil
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICA DE COMERCIO SIMON RODRIGUEZ,3.470444060434076,-76.50374570986268,05,0501,El Sena
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA LICEO DEPARTAMENTAL - SEDE PRINCIPAL,3.423031900045886,-76.53888541964866,19,1905,Eucarístico
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICA INDUSTRIAL ANTONIO JOSE CAMACHO,3.4413909997590473,-76.52949000027918,09,0904,Guayaquil
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO COMERCIAL JOSE MARIA VIVAS BALCAZAR,3.411300000060079,-76.53031600028461,10,1010,La Selva
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA NORMAL SUPERIOR LOS FARALLONES,3.442312699934093,-76.54401092009726,03,0315,Navarro - La Chanca
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOSE HILARIO LOPEZ,3.43853520991779,-76.51768094967508,08,0801,Primitivo Crespo
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL DIEZ DE MAYO - SEDE PRINCIPAL,3.4317258766557317,-76.51830423226025,11,1109,Aguablanca
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOSE MARIA VIVAS BALCAZAR,3.420702008303556,-76.51815619888457,11,1106,El Jardín
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SUSANA VINASCO DE QUINTANA,3.4146631532336738,-76.51422232713507,11,1113,Los Sauces - Ciudad Modelo
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,MARINO RENGIFO SALCEDO,3.4204994090268426,-76.51820694740991,11,1106,El Jardín
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,RICARDO NIETO,3.4418450458368004,-76.50688074666093,08,0813,Santa Fé
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SAAVEDRA GALINDO,3.440886711597859,-76.5132590744357,08,0803,Saavedra Galindo
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,CACIQUE DE GUATAVITA,3.443060260400055,-76.49864615994599,08,0814,Chapinero
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ISABEL DE CASTILLA,3.423926706719841,-76.52490381688611,10,1009,Cristóbal Colón
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,FENALCO ASTURIAS,3.4372974797447045,-76.49996176693409,12,1206,Fenalco Kennedy
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,LOS FARALLONES,3.4581802834452118,-76.48193051126003,07,0702,Alfonso Lopez Pumarejo 2a Etapa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,CROYDON,3.4431738697046543,-76.5044099098107,08,0812,Atanasio Girardot
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,LIZANDRO FRANKY,3.4111206920950394,-76.5041604647243,16,1604,Antonio Nariño
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,CRISTINA SERRANO DE LOURIDO,3.4674761818143423,-76.5170913027091,04,0408,Sultana - Berlín - San Francisco
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ADAN CORDOVEZ CORDOBA,3.4585259999698987,-76.51297600001831,04,0403,Porvenir
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SANTO TOMAS DE AQUINO,3.466666667132029,-76.51722222228031,04,0408,Sultana - Berlín - San Francisco
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ABRAHAN DOMINGUEZ,3.4445429998361137,-76.49560599961478,08,0816,El Trébol
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ANA MARIA VERNAZA,3.4504428902796014,-76.48455435006775,07,0707,Siete de Agosto
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,MANUEL REBOLLEDO,3.4400152672029387,-76.51057974489623,08,0804,Rafael Uribe Uribe
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ESTADO DE PUERTO RICO,3.4425600001765058,-76.5103420003664,08,0806,La Floresta
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,MARICE SINISTERRA,3.4525575821697063,-76.57637970632081,01,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ANA MARIA LLOREDA,3.4521101148050715,-76.56767461170445,01,0101,Terrón Colorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JHON F. KENNEDY,3.3949240796753473,-76.5491939100291,18,1802,Caldas
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,GENERAL SANTANDER,3.3927260501862477,-76.54618276977317,18,1801,Buenos Aires
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,REPUBLICA DE PANAMA,3.4149810002213714,-76.56306799972351,20,2008,Pueblo Joven
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ULPIANO LLOREDA,3.452693725820327,-76.56892900479414,01,0101,Terrón Colorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ESCUELA NORMAL SUPERIOR SANTIAGO DE CALI,3.424073109252246,-76.53090703604602,10,1014,Colseguros Andes
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,POLICARPA SALAVARRIETA,3.448792969811956,-76.52034519021272,09,0910,Barrio Obrero
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,NUESTRA SEÑORA DE LOS REMEDIOS,3.439656000234932,-76.52163100008286,09,0908,Belalcázar
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,CAMILO TORRES,3.4321165796749304,-76.53023749022373,19,1915,Urbanización Colseguros
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,GENERAL CARLOS ALBAN,3.4320927802513514,-76.52495689025142,10,1004,Santa Elena
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,HONORIO VILLEGAS,3.4221658079901998,-76.52878372503987,10,1001,El Dorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,EDUARDO RIASCOS GRUESO,3.3768213462091206,-76.55112327566373,18,1815,El Jordán
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,REPUBLICA DEL ECUADOR,3.43939204039736,-76.5249847299404,09,0904,Guayaquil
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEDE LA GRAN COLOMBIA,3.435738999976564,-76.53708900018451,19,1913,El Cedro
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOSE ACEVEDO Y GOMEZ,3.4543685188836126,-76.5773603333361,01,0102,Vista Hermosa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ANTONIO RICAURTE,3.4204923357390746,-76.51826919886247,11,1106,El Jardín
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA JOAQUIN DE CAYCEDO Y CUERO,3.421868169929923,-76.52540758041935,10,1009,Cristóbal Colón
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA INEM JORGE ISAACS,3.482522828045005,-76.50185609378107,04,0420,Flora Industrial
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,LA INMACULADA,3.45520739966151,-76.55209310043773,01,0101,Terrón Colorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA SANTA FE,3.4405694130290447,-76.5298484433489,09,0904,Guayaquil
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,RAFAEL POMBO,3.4540697404286105,-76.48319137042314,07,0703,Alfonso Lopez Pumarejo 3a Etapa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,POLICARPA SALAVARRIETA,3.412711768329761,-76.50565142465248,16,1604,Antonio Nariño
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA EL DIAMANTE - SEDE PRINCIPAL,3.4197007333598313,-76.50127428102267,13,1308,El Diamante
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA CARLOS HOLMES TRUJILLO - SEDE PRINCIPAL,3.4061527149780995,-76.51055570328428,16,1602,República de Israel
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL JOSE MARIA CARBONELL,3.424695000087751,-76.52966400035646,10,1014,Colseguros Andes
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,PURIFICACION TRUJILLO,3.458070634775399,-76.48203332524092,07,0702,Alfonso Lopez Pumarejo 2a Etapa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ASTURIAS,3.4384583099857386,-76.50178747956134,12,1202,Asturias
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEDE LUIS ENRIQUE MONTOYA,3.4069870002017986,-76.51793899972358,16,1601,Mariano Ramos
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA CARLOS HOLGUIN LLOREDA - SEDE PRINCIPAL,3.418538149687207,-76.52265271963249,10,1002,El Guabal
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA  JOSE HOLGUIN GARCES - SEDE PRINCIPAL,3.4522130300579583,-76.56738395909933,01,0101,Terrón Colorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA MANUEL MARIA MALLARINO,3.457362626132572,-76.48727784617648,07,0710,Las Ceibas
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA BOYACA,3.42397390514262,-76.51993626721392,11,1105,Urbanización Boyaca
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEDE PRIMAVERA,3.42118799979654,-76.50897099966461,11,1122,Primavera
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,MARIANO OSPINA PEREZ,3.4719081099782634,-76.48892278902248,05,0503,Los Guayacanes
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,25 DE JULIO,3.405608300270955,-76.54517294032462,19,1921,Camino Real - Joaquín Borrero Sinisterra
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOAQUIN DE CAICEDO Y CUERO,3.4217647707648142,-76.53097058376753,10,1008,Olímpico
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA POLITECNICO MUNICIPAL DE CALI - SEDE PRINCIPAL,3.4019550001753753,-76.55382000018037,19,1930,Pampa Linda
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ALEJANDRO CABAL POMBO,3.4554660001243334,-76.57043599965016,01,0101,Terrón Colorado
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA LA ANUNCIACION - SEDE PRINCIPAL,3.4398209996433393,-76.4801530004343,14,1402,Alirio Mora Beltrán
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA GABRIELA MISTRAL,3.4192905118334798,-76.4765421350132,14,1406,José Manuel Marroquín Primera Etapa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA RAFAEL NAVIA VARON,3.413774456245967,-76.53601129672803,10,1011,Departamental
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOSE CARDONA HOYOS,3.4253579428202996,-76.49239888379476,13,1305,Los Comuneros II Etapa
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ISAIAS HERNAN IBARRA,3.4156917833791174,-76.48076556072822,14,1401,Alfonso Bonilla Aragón
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA SANTA ROSA - SEDE PRINCIPAL,3.422723000437448,-76.48799300036406,13,1304,El Poblado II
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,VILLABLANCA,3.434221481706941,-76.49223482088115,13,1306,Ricardo Balcázar
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL CARLOS HOLGUIN MALLARINO - SEDE PRINCIPAL,3.4115243010874123,-76.49227319780842,15,1502,Los Comuneros I
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL DONALD RODRIGO TAFUR - SEDE PRINCIPAL,3.408727999728724,-76.51441399976893,16,1602,República de Israel
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,PUERTA DEL SOL,3.4311596300408533,-76.47568227031819,14,1410,Los Naranjos II
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA TECNICO INDUSTRIAL  MULTIPROPOSITO - SEDE PRINCIPAL,3.4122851642807444,-76.56026245059843,19,1931,Cañaveralejo Guadalupe
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA NUEVO LATIR - SEDE PRINCIPAL,3.420330999662558,-76.48665099997459,14,1401,Alfonso Bonilla Aragón
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEÑOR DE LOS MILAGROS,3.410406000320568,-76.49755700027471,15,1501,El Retiro
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,INSTITUCION EDUCATIVA GENERAL JOSE MARIA CABAL-SEDE PRINCIPAL,3.3823059846495127,-76.5592545318665,18,1823,Sector Alto Nápoles
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ISAIAS DUARTE CANCINO,3.4111536296540628,-76.4861935472892,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,FRANCISCO JOSE DE CALDAS,3.4243140108017367,-76.61649783719056,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,TIERRA DE HOMBRES SEDE PRINCIPAL,3.4392000987439273,-76.58775320965772,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,ANTONIO RICAURTE - SEDE PRINCIPAL,3.4841880000581735,-76.54770699970622,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,SEDE ANDRES JOAQUIN LENIS,3.4673175580587396,-76.55282314959103,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,JOSE HOLGUIN GARCES,3.43707700021074,-76.61359299997206,fuera_urbano,,
+MEN sedes educativas,Reporta afectación sin definir el impacto,Educational,OMAIRA SANCHEZ,3.4327303339727537,-76.4873705577037,13,1320,Sector Laguna del Pondaje

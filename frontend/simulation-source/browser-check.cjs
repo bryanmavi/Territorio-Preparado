@@ -1,0 +1,57 @@
+const {chromium}=require('../node_modules/playwright-core');
+const assert=require('node:assert/strict');
+(async()=>{
+ const browser=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+ const page=await browser.newPage({viewport:{width:1500,height:1000}});page.setDefaultTimeout(15000);
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:4173',{waitUntil:'domcontentloaded'});
+ await page.getByRole('button',{name:'06 Simular escenarios',exact:true}).click();
+ const frame=page.frameLocator('iframe');await frame.locator('#cargando').waitFor({state:'hidden',timeout:60000});
+ const sim=page.frames().find(f=>f.url().endsWith('/simulation.html'));
+ const diag=()=>sim.evaluate(()=>window.simulationDiagnostics());
+ async function complete(){await frame.locator('#avance').fill('1');await frame.locator('#avance').dispatchEvent('input');}
+ assert.equal((await diag()).blocks,0);
+ await complete();assert.equal((await diag()).blocks,5357);assert.equal((await diag()).candidates.length,8);
+ await frame.locator('#save-exercise').click();
+ await frame.getByRole('button',{name:'Sismo',exact:true}).click();assert.equal((await diag()).progress,0);
+ await frame.locator('#simular').click();await page.waitForTimeout(500);await frame.locator('#pause-exercise').click();
+ const paused=(await diag()).progress;await page.waitForTimeout(300);assert.equal((await diag()).progress,paused);
+ await frame.locator('#pause-exercise').click();assert.equal((await diag()).running,true);
+ await frame.locator('#reduce-motion').check();await frame.locator('#simular').click();
+ assert.equal((await diag()).progress,1);assert.equal((await diag()).blocks,7855);
+ assert.match(await frame.locator('#comparison-exercise').innerText(),/Amenazas distintas/);
+ const download=page.waitForEvent('download');await frame.locator('#export-exercise').click();
+ const file=await download;await file.saveAs('/tmp/cali-exercise-verified.json');const report=JSON.parse(require('fs').readFileSync('/tmp/cali-exercise-verified.json','utf8'));
+ assert.equal(report.current.scenario,'sismo');assert.equal(report.current.blocksInScenario,7855);assert.equal(report.baseline.scenario,'inundacion');
+ // Preserve sismo when moving from candidate to the app's preparation form.
+ await frame.getByRole('button',{name:'Preparar intervención',exact:true}).first().click();
+ await page.getByRole('heading',{name:'Preparar una intervención',exact:true}).waitFor();
+ assert.equal(await page.locator('.planning-controls select').first().inputValue(),'earthquake');
+ await page.getByRole('button',{name:'06 Simular escenarios',exact:true}).click();await frame.locator('#cargando').waitFor({state:'hidden',timeout:60000});
+ const sim2=page.frames().find(f=>f.url().endsWith('/simulation.html'));
+ await frame.getByRole('button',{name:'Incendio forestal',exact:true}).click();await complete();
+ const first=await sim2.evaluate(()=>window.simulationDiagnostics());assert(first.blocks>0);
+ await frame.locator('#save-exercise').click();await frame.locator('#viento').selectOption('270');await complete();
+ assert.match(await frame.locator('#comparison-exercise').innerText(),/diferencia/);
+ const beforeMargin=await sim2.evaluate(()=>window.simulationDiagnostics());await frame.locator('#margen').fill('1000');await frame.locator('#margen').dispatchEvent('input');
+ const expanded=await sim2.evaluate(()=>window.simulationDiagnostics());
+ assert(expanded.blocks>=beforeMargin.blocks);
+ await frame.locator('#render-quality').selectOption('low');await frame.getByRole('button',{name:'Laderas',exact:true}).click();
+ await page.screenshot({path:'/tmp/cali-fire-integrated.png',fullPage:true});
+ await frame.getByRole('button',{name:'Preparar intervención',exact:true}).first().click();
+ await page.getByRole('heading',{name:'Preparar una intervención',exact:true}).waitFor();
+ assert.equal(await page.locator('.planning-controls select').first().inputValue(),'wildfire');
+ assert.equal(errors.length,0,errors.join('\n'));
+ console.log('PASS: inundación, sismo, incendio, pausa, modo reducido, comparación, JSON y transferencia de amenaza.');
+ // Standalone mobile and blocked-network initialization (embedded assets).
+ const mobile=await browser.newPage({viewport:{width:390,height:844},reducedMotion:'reduce'});
+ await mobile.route('https://**/*',r=>r.abort());
+ await mobile.goto('http://127.0.0.1:4173/simulation.html',{waitUntil:'domcontentloaded'});
+ await mobile.locator('#cargando').waitFor({state:'hidden',timeout:60000});
+ assert.equal(await mobile.locator('#reduce-motion').isChecked(),true);
+ assert.equal(await mobile.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+1),true);
+ await mobile.locator('#simular').click();assert.equal((await mobile.evaluate(()=>window.simulationDiagnostics())).progress,1);
+ await mobile.screenshot({path:'/tmp/cali-simulation-mobile.png',fullPage:true});
+ console.log('PASS: móvil sin descargas externas, sin desbordamiento horizontal.');
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});
