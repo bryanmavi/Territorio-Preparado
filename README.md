@@ -33,3 +33,5 @@ Un administrador debe seleccionar **Settings → Pages → Build and deployment 
 ## Simulación v3
 
 Actualizada el 8 de octubre de 2026 con el paquete suministrado `simulacion_ciudad_cali_v3.zip`. Incluye las pestañas Simulación y Albergues y nuevos controles de escenarios. El original y sus fuentes se conservan en `frontend/simulation-source`.
+
+La raíz incluye un acceso a `frontend/dist/` para funcionar también si Pages publica la rama `main` directamente. Las rutas de la aplicación son relativas y los módulos diferidos comparten la misma instancia de React; no añadir parámetros de versión al módulo principal en `index.html`.

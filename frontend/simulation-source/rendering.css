@@ -1,0 +1,29 @@
+/* Presentation layer for the supplied v3 city model. */
+:root { --borde:#dce6e2; --crema:#f1f5f3; --suave:#536d68; }
+.cabecera { padding:18px 24px; align-items:center; gap:20px; }
+h1 { font-size:clamp(19px,1.6vw,26px); letter-spacing:-.035em; }
+.marca { font-size:10px; letter-spacing:.12em; }
+.aviso { max-width:410px; font-size:11px; padding-left:18px; border-left:2px solid var(--borde); }
+.diseno { grid-template-columns:minmax(0,1fr) clamp(350px,29vw,430px); }
+.visor { background:#e4eeef; }
+.ayuda { top:auto; bottom:20px; right:20px; max-width:280px; padding:10px 14px; line-height:1.6; border:1px solid #ffffffb0; border-radius:12px; background:#fffffff0; box-shadow:0 4px 20px #193e3b0a; }
+.leyenda { left:20px; bottom:20px; gap:7px; padding:14px 16px; border-radius:14px; box-shadow:0 8px 30px #193e3b12; }
+.render-tools { position:absolute; top:18px; left:18px; z-index:1; display:flex; align-items:center; gap:10px; padding:8px 12px; background:#fffffff2; border:1px solid #fff; border-radius:12px; box-shadow:0 4px 20px #193e3b12; font-size:12px; }
+.render-tools label { font-weight:700; }
+.render-tools select { padding:6px 9px; font-size:12px; }
+.cuadro { padding:0 18px 24px; background:#f7f9f8; scrollbar-width:thin; scrollbar-color:#b7ccc3 transparent; }
+.cuadro-cabeza { margin:0 -18px 14px; padding:16px 18px; background:#fffffff5; }
+.pestanas { padding:5px; gap:6px; border-radius:12px; }
+.pestanas button { padding:10px; }
+.controles { gap:12px; margin-top:14px; }
+.escenarios button { padding:10px 6px; }
+button { transition:background .15s,box-shadow .15s; }
+button:hover:not(:disabled) { box-shadow:0 2px 8px #193e3b18; }
+input[type="range"], input[type="checkbox"] { accent-color:var(--verde); }
+.tarjeta { margin:12px 0; padding:16px; border-radius:14px; box-shadow:0 2px 8px #193e3b04; }
+.tarjeta > h3, details.tarjeta > summary { font-size:14px; }
+.kpi strong { font-size:30px; letter-spacing:-.04em; }
+.etiqueta { border-radius:9px; box-shadow:0 3px 10px #193e3b15; }
+@media (max-width:1100px) { .ayuda { max-width:210px; font-size:10px; } .leyenda { font-size:11px; max-width:230px; } }
+@media (max-width:900px) { .diseno { grid-template-columns:1fr; } .cabecera { padding:16px; } .aviso { max-width:100%; padding-left:0; border-left:0; } .visor { height:65svh; min-height:430px; } .ayuda { bottom:auto; top:70px; right:12px; left:12px; max-width:none; padding:6px 10px; text-align:center; } .leyenda { bottom:12px; left:12px; } .render-tools { top:12px; left:12px; } }
+@media (prefers-reduced-motion:reduce) { button { transition:none; } }
