@@ -1,0 +1,45 @@
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
+const assert=require('node:assert/strict');
+(async()=>{
+ const browser=await chromium.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+ for(const width of [1440,390]){
+  const page=await browser.newPage({viewport:{width,height:1000}});
+  const errors=[];page.on('pageerror',e=>errors.push(e.message));
+  await page.goto(process.env.MAP_URL||'http://127.0.0.1:4190/');
+  await page.locator('.territory-cluster-count').first().waitFor();
+  assert(await page.locator('.territory-cluster-count').count()>0);
+  await page.getByRole('checkbox',{name:'Espacios públicos',exact:false}).uncheck();
+  await page.getByRole('checkbox',{name:'Escenarios deportivos',exact:false}).uncheck();
+  await page.locator('.territory-cluster-count').first().waitFor({state:'hidden'});
+  assert.equal(await page.locator('.territory-cluster-count').count(),0);
+  await page.getByRole('checkbox',{name:'Espacios públicos',exact:false}).check();
+  await page.getByRole('checkbox',{name:'Escenarios deportivos',exact:false}).check();
+  await page.locator('.territory-cluster-count').first().click({force:true});
+  await page.waitForTimeout(400);
+  await page.getByRole('button',{name:'Centrar sector',exact:false}).click();
+  await page.getByRole('button',{name:'Ampliar mapa',exact:false}).click();
+  assert.equal(await page.locator('.map-expanded').count(),1);
+  await page.keyboard.press('Escape');assert.equal(await page.locator('.map-expanded').count(),0);
+  await page.getByRole('searchbox').fill('hockey');
+  await page.locator('.quick-place').first().waitFor();
+  await page.locator('.quick-place').first().click();
+  await page.locator('.quick-place.is-selected').waitFor();
+  await page.locator('#space-detail').waitFor();
+  assert.match(await page.locator('#space-detail').innerText(),/hockey/i);
+  await page.getByRole('button',{name:'Limpiar',exact:true}).click();
+  await page.getByRole('combobox',{name:'Comuna',exact:true}).selectOption('19');
+  assert.match(await page.locator('.map-heading').innerText(),/Comuna 19/);
+  await page.getByRole('combobox',{name:'Barrio / sector',exact:true}).selectOption('San Fernando Viejo');
+  assert.match(await page.locator('.map-heading').innerText(),/San Fernando Viejo/);
+  await page.getByRole('checkbox',{name:'Límites de barrios',exact:true}).check();
+  await page.getByRole('checkbox',{name:'Mapa de calles',exact:false}).uncheck();
+  await page.getByRole('checkbox',{name:'Mapa de calles',exact:false}).check();
+  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),true);
+  await page.locator('.map-panel').scrollIntoViewIfNeeded();
+  await page.screenshot({path:`/tmp/territorio-map-${width}.png`,fullPage:true});
+  assert.deepEqual(errors,[]);
+  console.log(`PASS ${width}px: clusters, independent layers, zoom, expand, escape, search, selection, territorial filters, no JS errors or overflow`);
+  await page.close();
+ }
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});
