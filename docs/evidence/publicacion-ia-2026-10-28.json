@@ -10,7 +10,8 @@
     "Interfaz en inglés y ancho móvil de 390 px",
     "BERT real en inglés: 36 puntuaciones y revisión humana",
     "Traducción local del español y BERT real",
-    "Persistencia de mensajes en SQLite temporal"
+    "Persistencia de mensajes en SQLite temporal",
+    "WebSocket real conectado a Uvicorn tras incluir websockets 15.0.1"
   ],
   "limitations": [
     "GitHub Pages solo aloja la interfaz estática; no aloja modelos ni ejecuta inferencias Python.",
@@ -24,5 +25,6 @@
     "Pesos de modelos y entornos virtuales",
     "Bases de datos y mensajes de prueba",
     "Otros cambios locales ajenos a esta integración"
-  ]
+  ],
+  "dependency_fix": "Se declaró websockets>=13,<16: Uvicorn sin extras no soportaba la actualización WebSocket."
 }

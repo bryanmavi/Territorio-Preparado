@@ -10,7 +10,7 @@ servidor/ia/.venv/bin/python servidor/ia/download_models.py
 servidor/ia/.venv/bin/python -m uvicorn servidor.ia.app:app --host 127.0.0.1 --port 4180
 ```
 
-Abrir http://127.0.0.1:4180/disaster-ai.html o entrar desde Centro de operaciones. OpenAPI: `/docs`. GitHub Pages solo sirve la interfaz; requiere este servidor para inferencias. El servidor anterior sigue disponible.
+Abrir http://127.0.0.1:4180/disaster-ai.html o entrar desde Centro de operaciones. OpenAPI: `/docs`. Las dependencias incluyen `websockets` para las notificaciones en vivo de mensajes. GitHub Pages solo sirve la interfaz; requiere este servidor para inferencias. El servidor anterior sigue disponible.
 
 ## BERT
 
