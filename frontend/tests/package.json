@@ -1,0 +1,12 @@
+{
+  "name": "territorio-preparado-browser-checks",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node disaster-browser.cjs",
+    "test:operations": "node ../operations-source/browser-check.cjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.64.1"
+  }
+}

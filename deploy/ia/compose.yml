@@ -1,0 +1,16 @@
+services:
+  api:
+    build:
+      context: ../..
+      dockerfile: deploy/ia/Dockerfile
+    ports: ["127.0.0.1:4180:4180"]
+    environment:
+      TP_AI_DB: /data/messages.sqlite
+      TP_SOS_MODEL: /models/sos
+      DEEPL_AUTH_KEY: ${DEEPL_AUTH_KEY:-}
+    volumes:
+      - ../../models:/models:ro
+      - messages:/data
+    restart: unless-stopped
+volumes:
+  messages:

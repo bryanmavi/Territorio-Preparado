@@ -1,0 +1,40 @@
+# Plantilla: reemplazar imagen y provisionar PVC/modelos antes de aplicar.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: territorio-ai
+spec:
+  replicas: 1
+  selector:
+    matchLabels: {app: territorio-ai}
+  template:
+    metadata:
+      labels: {app: territorio-ai}
+    spec:
+      containers:
+        - name: api
+          image: territorio-ai:local
+          ports: [{containerPort: 4180}]
+          env:
+            - {name: TP_SOS_MODEL, value: /models/sos}
+            - {name: TP_AI_DB, value: /data/messages.sqlite}
+          resources:
+            requests: {cpu: '1', memory: 1Gi}
+            limits: {cpu: '2', memory: 3Gi}
+          readinessProbe:
+            httpGet: {path: /api/v1/status, port: 4180}
+          volumeMounts:
+            - {name: models, mountPath: /models, readOnly: true}
+            - {name: data, mountPath: /data}
+      volumes:
+        - name: models
+          persistentVolumeClaim: {claimName: territorio-models}
+        - name: data
+          persistentVolumeClaim: {claimName: territorio-data}
+---
+apiVersion: v1
+kind: Service
+metadata: {name: territorio-ai}
+spec:
+  selector: {app: territorio-ai}
+  ports: [{port: 4180, targetPort: 4180}]

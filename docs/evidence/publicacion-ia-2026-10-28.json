@@ -1,0 +1,28 @@
+{
+  "tested_at": "2026-10-28T19:15:39.463469+00:00",
+  "scope": "Actualización aislada de integración IA y Centro de operaciones; simulador y otros cambios locales no incluidos.",
+  "api_integration_tests": 10,
+  "counting_tests": 3,
+  "browser_checks": [
+    "Navegación principal → Centro de operaciones → IA bajo /Territorio-Preparado/",
+    "Conteo estático: 104 personas y 24 duplicados",
+    "Sin API: aviso explícito y formularios deshabilitados",
+    "Interfaz en inglés y ancho móvil de 390 px",
+    "BERT real en inglés: 36 puntuaciones y revisión humana",
+    "Traducción local del español y BERT real",
+    "Persistencia de mensajes en SQLite temporal"
+  ],
+  "limitations": [
+    "GitHub Pages solo aloja la interfaz estática; no aloja modelos ni ejecuta inferencias Python.",
+    "No se repitió inferencia xView2 en esta publicación; las pruebas técnicas anteriores están en ia-2026-10-16.json.",
+    "No se evaluó precisión de modelos ni se desplegó backend público.",
+    "Las teselas OSM dependen de red; no se certificó su disponibilidad."
+  ],
+  "excluded": [
+    "Prompts e instrucciones para asistentes",
+    "Obsidian Vault y memorias privadas",
+    "Pesos de modelos y entornos virtuales",
+    "Bases de datos y mensajes de prueba",
+    "Otros cambios locales ajenos a esta integración"
+  ]
+}

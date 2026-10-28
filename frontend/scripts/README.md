@@ -16,3 +16,9 @@ Correcciones: listado completo de barrios oficiales; encuadre por límites y no 
 El mapa agrupa espacialmente los registros visibles por celdas de 54 píxeles al alejarse; cada número cuenta registros, no predios únicos. Desde zoom 15 se muestran las geometrías del inventario. Los controles de espacios públicos y deportivos solo cambian la visibilidad del mapa, mientras los filtros territoriales y la búsqueda modifican el inventario consultado. Los datos y cruces de amenaza no cambian.
 
 Comprobación en navegador: `MAP_URL=http://127.0.0.1:4173/ node frontend/map-source/browser-check.cjs` (requiere Playwright; `PLAYWRIGHT_MODULE` permite indicar su instalación). Comprueba agrupación, capas, selección, búsqueda, filtros, vista ampliada y móvil.
+
+## Centro de operaciones e IA
+
+`python3 frontend/scripts/integrate_operations.py` incorpora las páginas, estilos y scripts legibles de `frontend/operations-source` en `frontend/dist`, sin reconstruir los bundles React. El visor usa Leaflet local en `frontend/dist/assets/leaflet` y conserva las rutas relativas para GitHub Pages.
+
+La interfaz comprueba `/api/v1/status`: si no hay servidor, explica cómo acceder al servicio de inferencia y deshabilita el envío de formularios. Las inferencias se ejecutan con el backend descrito en [servidor/ia/README.md](../../servidor/ia/README.md).

@@ -1,0 +1,19 @@
+{
+  "id": "us6000u18k",
+  "source": "USGS",
+  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+  "magnitude": 7.7,
+  "depth_km": 12.647,
+  "longitude": -80.769,
+  "latitude": 7.5868,
+  "origin_utc": "2026-10-09T17:56:06.036000+00:00",
+  "updated_utc": "2026-10-09T19:20:34.239000+00:00",
+  "retrieved_utc": "2026-10-09T19:21:40.632173+00:00",
+  "status": "reviewed",
+  "place": "12 km WSW of Pitaloza Arriba, Panama",
+  "initial_report": {
+    "magnitude": 8.0,
+    "depth_km": 33,
+    "source": "USGS/PT, reporte inicial; sustituido por revisión"
+  }
+}

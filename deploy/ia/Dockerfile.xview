@@ -1,0 +1,10 @@
+# Build after provision_xview.py; no model downloads at runtime.
+FROM python:3.7.17-slim-bullseye
+RUN apt-get update && apt-get install -y --no-install-recommends libgomp1 libgl1 libglib2.0-0 && rm -rf /var/lib/apt/lists/*
+COPY servidor/ia/requirements-xview.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+COPY models/xview2/source /opt/xview/source
+COPY servidor/ia/xview_runner.py servidor/ia/xview_localize.py /opt/xview/
+COPY deploy/ia/xview-entrypoint.sh /opt/xview/entrypoint.sh
+ENV OMP_NUM_THREADS=2 OPENBLAS_NUM_THREADS=2 CUDA_VISIBLE_DEVICES=-1
+ENTRYPOINT ["/bin/sh", "/opt/xview/entrypoint.sh"]

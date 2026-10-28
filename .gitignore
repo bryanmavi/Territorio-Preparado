@@ -10,3 +10,22 @@ playwright-report/
 !.env.example
 
 _site/
+
+# Modelos, entornos y datos de ejecución locales
+**/.venv/
+/models/
+*.sqlite
+*.sqlite3
+output/playwright/
+
+# Instrucciones y memoria de asistentes: no se publican
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.codex/
+.claude/
+.engram/
+**/*prompt*.md
+/Obsidian Vault/
+
+.playwright-cli/
