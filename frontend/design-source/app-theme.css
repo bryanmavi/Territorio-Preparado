@@ -20,17 +20,21 @@ body>header:not(.topbar){height:auto;min-height:100px;padding:20px 4%;gap:18px;f
 #watch .event{background:#eaf0e3;color:#254b40;border:1px solid var(--tp-border)}
 #watch .event :is(h3,p,span,div,a){color:#254b40}
 #watch .event a{border-color:#456d5f;font-weight:700;text-decoration:underline;text-underline-offset:4px}
-/* Internal headers show the complete photograph in a reserved area, without cropping. */
-body>header:not(.topbar){min-height:190px;padding:24px 46% 24px 4%;align-items:center;justify-content:flex-start;gap:14px;background:#66877b}
-body>header:not(.topbar):before{left:auto;right:2%;top:12px;bottom:12px;width:40%;background:url('./equipo.jpeg') center/contain no-repeat;opacity:.68}
-body>header:not(.topbar):after{background:linear-gradient(90deg,#456d5fe8,#66877b33)}
-body>header:not(.topbar)>span{font-size:11px;line-height:1.6;letter-spacing:1px}
-body>header:not(.topbar) .aviso{font-size:12px;line-height:1.5}
-body>header:not(.topbar) .eyebrow{color:white}
+/* Internal pages use the same translucent, full-width photographic treatment as home. */
+body>header:not(.topbar){min-height:max(320px,42.1875vw);padding:28px 4%;align-items:center;justify-content:space-between;gap:22px;background:#66877b}
+body>header:not(.topbar):before{inset:0;width:auto;background:url('./equipo.jpeg') center/75% auto no-repeat;opacity:.48}
+body>header:not(.topbar):after{background:linear-gradient(90deg,rgba(49,87,72,.76),rgba(105,143,123,.30) 65%,rgba(150,177,151,.15))}
+body>header:not(.topbar)>span{font-size:12px;line-height:1.6;letter-spacing:1px;max-width:390px}
+body>header:not(.topbar) .aviso{font-size:13px;line-height:1.6;text-shadow:0 2px 12px #153b3955}
+body>header:not(.topbar) :is(.eyebrow,.marca,h1){color:white;text-shadow:0 2px 12px #153b3955}
+.tp-header-photo{display:none!important}
+#watch,#watch :is(.heading,h2,h3,p,span,b,#event-values,#event-link){color:#254b40!important}
+#watch .heading>p:last-child{color:#4d665a!important}
 a.tp-back{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:44px;padding:11px 18px;border:1px solid #ffffffb3;border-radius:10px;background:#fff;color:#254b40!important;font-size:14px;font-weight:700;line-height:1.3;text-decoration:none;box-shadow:0 4px 12px #254b4026;transition:background .2s,transform .2s}
 a.tp-back:hover{background:#d4ed78;transform:translateX(-3px)}
 a.tp-back:focus-visible{outline:3px solid #d4ed78;outline-offset:4px}
 .cabecera p:has(.tp-back){display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-@media(max-width:700px){body>header:not(.topbar){padding:20px 5%;min-height:0;display:flex;flex-direction:column;align-items:flex-start}body>header:not(.topbar):before{display:none}body>header:not(.topbar):after{background:#456d5f55}body>header:not(.topbar) .tp-header-photo{display:block;width:100%;height:auto;border-radius:12px;opacity:.68;order:10}body>header:not(.topbar)>span{display:block}.cabecera .aviso{max-width:100%}}
-@media(min-width:701px){.tp-header-photo{display:none}}
+@media(max-width:700px){body>header:not(.topbar){padding:25px 5%;min-height:290px;display:flex;flex-direction:column;align-items:flex-start;justify-content:center}body>header:not(.topbar):before{display:block;inset:0;width:auto;background-size:75% auto;opacity:.48}body>header:not(.topbar):after{background:linear-gradient(90deg,rgba(49,87,72,.76),rgba(105,143,123,.30) 65%,rgba(150,177,151,.15))}body>header:not(.topbar)>span{display:block}.cabecera .aviso{max-width:100%}}
 @media(prefers-reduced-motion:reduce){a.tp-back{transition:none}}
+
+body>header .tp-internal-hero{width:100%;padding:25px 0;align-items:center;gap:35px;color:white;letter-spacing:normal;font-size:16px}body>header .tp-internal-hero h1{font-size:clamp(34px,4.2vw,64px);color:white;line-height:1.08}body>header .tp-internal-hero h1 em{color:#d4ed78}body>header .tp-internal-hero :is(p,small,.eyebrow){color:white}body>header .tp-internal-hero p{font-size:16px;line-height:1.6;max-width:760px}body>header .tp-internal-hero .eyebrow{color:#d4ed78}body>header .tp-internal-hero .badge{border-color:#ffffff66;min-width:260px;background:#547b6555;border-radius:20px;padding:25px}body>header .tp-internal-hero .badge strong{font-size:25px}@media(max-width:700px){body>header .tp-internal-hero{display:block;padding:10px 0}body>header .tp-internal-hero .badge{min-width:0;width:100%;padding:15px}body>header .tp-internal-hero h1{font-size:36px}}
