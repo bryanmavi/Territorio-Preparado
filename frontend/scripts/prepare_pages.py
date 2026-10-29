@@ -14,6 +14,8 @@ out = root / args.output
 if out.exists():
     raise SystemExit(f'Output already exists: {out}')
 shutil.copytree(root / 'frontend/dist', out)
+# Preserve shared links to the original nested app URL as well as the root app.
+shutil.copytree(root / 'frontend/dist', out / 'frontend/dist')
 for path in out.rglob('*'):
     if path.suffix not in {'.html', '.js', '.css'}:
         continue
