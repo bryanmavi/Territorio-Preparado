@@ -7,3 +7,7 @@ for name,target in [('disaster-ai.html',dist/'disaster-ai.html'),('disaster-ai.j
 index=dist/'index.html';content=index.read_text();script='<script src="./assets/operations-entry.js"></script>'
 if 'operations-entry.js' not in content:index.write_text(content.replace('</body>',script+'</body>'))
 print('Integrated operations center; existing map and simulation bundles preserved.')
+
+# Reapply the shared visual system after generating app pages.
+import runpy
+runpy.run_path(str(Path(__file__).resolve().parent / "integrate_design.py"), run_name="__main__")

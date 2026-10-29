@@ -22,3 +22,7 @@ Comprobación en navegador: `MAP_URL=http://127.0.0.1:4173/ node frontend/map-so
 `python3 frontend/scripts/integrate_operations.py` incorpora las páginas, estilos y scripts legibles de `frontend/operations-source` en `frontend/dist`, sin reconstruir los bundles React. El visor usa Leaflet local en `frontend/dist/assets/leaflet` y conserva las rutas relativas para GitHub Pages.
 
 La interfaz comprueba `/api/v1/status`: si no hay servidor, explica cómo acceder al servicio de inferencia y deshabilita el envío de formularios. Las inferencias se ejecutan con el backend descrito en [servidor/ia/README.md](../../servidor/ia/README.md).
+
+## Diseño compartido
+
+La identidad visual se mantiene en `frontend/design-source/`. Sincronizar con `python3 frontend/scripts/integrate_design.py`; los integradores de operaciones y simulación también lo ejecutan. Se conservan los módulos del mapa y sus datos.

@@ -30,3 +30,7 @@ applyRenderQuality();""")
 (out / 'simulation.html').write_text(html)
 (out / 'simulation-method.md').write_text((source / 'FUENTES_Y_METODO.md').read_text())
 print('Simulation v3 integrated')
+
+# Reapply the shared visual system after generating app pages.
+import runpy
+runpy.run_path(str(Path(__file__).resolve().parent / "integrate_design.py"), run_name="__main__")
